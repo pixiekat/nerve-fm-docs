@@ -10,6 +10,9 @@ Websites:
 - [Underground](https://www.nerve.fm/underground): Unfiltered, free-form, explicit channel. Online-only.
 - [Podcasts](https://www.nerve.fm/podcasts): On-demand podcasts
 
+## Location
+
+Nerve began in 1967 in a small two-story building on Tremont Street in Boston built in the early 1900s. The building itself began life as one of the earliest broadcasters in Boston without even trying. In 1930, a working class tinkerer named **Jack DeAngelis** was experimenting with creating a low-power transmission signal to keep his neighborhood entertained during the great depression, as he figured radio would be an inexpensive way for the community to be engaged and entertained.
 
 ## Daily Schedule
 
@@ -41,6 +44,10 @@ Websites:
 
 **12:00-14:00**: Travis
 
+#### Sunday
+
+**17:00-20:00**: The Indie Dive with DJ Luna
+
 ### Underground
 
 *00:00-06:00*: The Insomniac Sessions with DJ Phantom
@@ -50,3 +57,7 @@ Websites:
 *11:00-12:00*: Ethan & Jared Shit Hour
 
 *12:00-15:00*: Indie Dive w/ DJ Luna
+
+*15:00-20:00*: Rush Hour Rizz with JJ & Max
+
+*20:00-00:00*: The Night Shift with Vixen & Spike
