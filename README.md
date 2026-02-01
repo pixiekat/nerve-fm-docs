@@ -52,7 +52,7 @@ Nerve began in 1967 in a small two-story building on Tremont Street in Boston bu
 
 ### Underground
 
-**00:00-06:00*: The Insomniac Sessions with DJ Phantom
+**00:00-06:00**: The Insomniac Sessions with DJ Phantom
 
 **06:00-10:00**: Morning Mayhem
 
