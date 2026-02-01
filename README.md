@@ -44,20 +44,22 @@ Nerve began in 1967 in a small two-story building on Tremont Street in Boston bu
 
 **12:00-14:00**: Travis
 
+**14:00-18:00**: Elle D Weekender
+
 #### Sunday
 
 **17:00-20:00**: The Indie Dive with DJ Luna
 
 ### Underground
 
-*00:00-06:00*: The Insomniac Sessions with DJ Phantom
+**00:00-06:00*: The Insomniac Sessions with DJ Phantom
 
-*06:00-10:00*: Morning Mayhem
+**06:00-10:00**: Morning Mayhem
 
-*11:00-12:00*: Ethan & Jared Shit Hour
+**11:00-12:00**: Ethan & Jared Shit Hour
 
-*12:00-15:00*: Indie Dive w/ DJ Luna
+**12:00-15:00**: Indie Dive w/ DJ Luna
 
-*15:00-20:00*: Rush Hour Rizz with JJ & Max
+**15:00-20:00**: Rush Hour Rizz with JJ & Max
 
-*20:00-00:00*: The Night Shift with Vixen & Spike
+**20:00-00:00**: The Night Shift with Vixen & Spike
