@@ -21,7 +21,11 @@ Nerve began in 1967 in a small two-story building on Tremont Street in Boston bu
 
 #### Weekdays
 
-**00:00-03:00**: Carrie Webb
+**23:00-01:00**, Monday: Bay State Rocks
+
+**00:00-03:00**, Tuesday-Friday: Carrie Webb
+
+**01:00-03:00**, Monday: Zombie Boy George
 
 **03:00-05:45**: Travis
 
@@ -35,7 +39,7 @@ Nerve began in 1967 in a small two-story building on Tremont Street in Boston bu
 
 **15:00-19:00**: The Afternoon Fiasco w/ Mike & Chris
 
-**19:00-22:00**: *The Metal Mistress*: Roxxxy
+**19:00-22:00**: *The Metal Mistress*: Roxxy
 
 **22:00-00:00**: Carrie Webb
 
@@ -47,9 +51,23 @@ Nerve began in 1967 in a small two-story building on Tremont Street in Boston bu
 
 **14:00-18:00**: Elle D Weekender
 
+**18:00-19:00**: Canada Rocks (Rayna)
+
+**19:00-21:00**: Roxxy's Metal Marathon
+
+**21:00-23:00**: Chaos Circuit (JJ & Max)
+
 #### Sunday
 
+**16:00-17:00**: Canada Rocks (Rayna) [From Saturday]
+
 **17:00-20:00**: The Indie Dive with DJ Luna
+
+**20:00-21:00**: Sunday Chart Show (Rayna)
+
+**21:00-23:00**: Static & Stardust (Vixen & Spike): Step inside the world of industrial goth raves and intimate advice.
+
+**23:00-24:00**: Bay State Rocks
 
 ### Underground
 
@@ -64,6 +82,14 @@ Nerve began in 1967 in a small two-story building on Tremont Street in Boston bu
 **15:00-20:00**: Rush Hour Rizz with JJ & Max
 
 **20:00-00:00**: The Night Shift with Vixen & Spike
+
+#### Weekends
+
+**12:00-17:00** The Vinyl Countdown with Mike & Chris
+
+**19:00-21:00**: Witchcore; dark ambiance and experimental brews with Tawny
+
+**21:00-24:00**: Rayna's Dreamscapes; lo-fi beats and dreamy beats
 
 ## People
 
