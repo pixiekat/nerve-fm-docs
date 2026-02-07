@@ -15,6 +15,65 @@ Websites:
 
 Nerve began in 1967 in a small two-story building on Tremont Street in Boston built in the early 1900s. The building itself began life as one of the earliest broadcasters in Boston without even trying. In 1930, a working class tinkerer named **Jack DeAngelis** was experimenting with creating a low-power transmission signal to keep his neighborhood entertained during the great depression, as he figured radio would be an inexpensive way for the community to be engaged and entertained.
 
+## A Brief History: A Chronicle of Boston’s Rock Radio Revolution
+
+**The 1960s**: ***Underground Beginnings***
+
+- Founded: A warm early Spring evening in May 1967 when a young Sam Marino saw the Velvet Underground at the Boston Tea Party and convinced them to give an interview.
+- Frequency: 95.1 FM
+- Flagship Program: The Rock Cafe
+- Notable Feature: Live performances and vinyl record deep cuts
+- Cultural Impact: Became a voice for Boston’s rock scene, broadcasting from a historical 1930's RKO.
+
+**The 1970s**: ***The Voice of a Generation***
+
+- Social Stance: Supported anti-war movleaements and civil rights
+- Musical Influence: Amplified messages of peace and love through rock music.
+- Danny O'Donovan became a name for his interview with Debbie Harry and Blondie in 1978.
+
+**The 1980s**: ***Expanding Horizons***
+
+- Genre Inclusion: Embraced punk, new wave, and indie rock
+- Cultural Hub: Became a center for counter-culture
+- Station’s Motto: “The Rock Radio Revolution”
+- Danny O'Donovan takes over the Rock Cafe.
+- Danny O'Donovan continued to embrace political activism when he invited AIDS activists, members of the queer community, and families of the victims to have a voice to protest Ronald Reagan's AIDS crisis.
+
+**The 1990s**: ***Grunge and Alternative Takeover***
+
+- Grunge Movement: Featured bands like Nirvana and Pearl Jam
+- Youth Connection: Resonated with the era’s disaffected youth
+- Historical Significance: Cemented its place in rock history.
+- Danielle takes over the Rock Cafe.
+- Elle D becomes program director.
+- Travis starts as an intern, moves to board tech and all around dogsbody.
+
+**The 2000s**: ***Digital Age and Diversification***
+
+- Digital Expansion: Began online streaming
+- Nerve Underground launched.
+- NerveTV expands.
+- Rayna comes to the Nerve from MuchMusic to lead the digital team.
+- Program Variety: Diversified content from metal to acoustic sessions
+- Global Reach: Made The Rock Cafe accessible worldwide.
+
+**The 2010s**: ***A New Era of Independence***
+
+- Independent Focus: Championed local, independent artists
+- Community Support: Hosted up-and-coming Boston bands on The Rock Cafe.
+
+**The 2020s**: ***The Nerve Today***
+
+- Current Status: A testament to independent radio’s power
+- Ongoing Legacy: Continues to broadcast The Rock Cafe, now an institution
+- Musical Tapestry: Reflects musical evolution and societal changes.
+
+The Nerve 95.1 FM has been a steadfast companion to those who find solace, inspiration, and a sense of revolution in music. From its pirate radio roots to its status as a cornerstone of Boston’s music culture, The Nerve continues to throb with the lifeblood of rock and roll.
+
+## The Wall
+
+A legendary wall sitting in the studio since 1967. It's notoriaty began on that May 1967 evening when Lou Reed absent-mindedly scratched his name on the wall in an act of both boredom and defiance, Sam Marino saw it as an inspiration. Since that night, every band, DJ, and other musician that have come to the studio, have been given the chance to write, carve, or otherwise sign their name, doodle, or make their presence felt in any way they saw fit. From Robert Plant to Jimmy Page to John Lennon and Yoko Ono to Boy George to Billie Joe Armstrong all the way to Olivia Rodrigo, Billie Eilish, and Harry Styles - anyone who has set foot in the studio has made their presence known on the wall.
+
 ## Daily Schedule
 
 ### Main Schedule
