@@ -5,21 +5,28 @@ The Nerve: *The Rock Radio Revolution*
 Boston, MA (105.3 FM) / Springfield, MA (95.1/95.5 FM)
 
 Websites:
+
 - [Nerve.fm](https://www.nerve.fm) (rest of world)
 - [Xtra](https://www.nerve.fm/xtra): Bonus content and second screen content from radio
 - [Underground](https://underground.nerve.fm): Unfiltered, free-form, explicit channel. Online-only.
 - [Podcasts](https://www.nerve.fm/podcasts): On-demand podcasts
-- [Big Ass Birthday Bash](https://www.nerve.fm/big-ass-bash/): Nerve's historical and semi-annual massive three-day festival, beginning it's life in 2003 around Boston.
+- [Big Ass Birthday Bash](https://www.nerve.fm/big-ass-bash/): Nerve's historical and semi-annual massive three-day festival,
+  beginning it's life in 2003 around Boston.
 
 ## Location
 
-Nerve began in 1967 in a small two-story building on Tremont Street in Boston built in the early 1900s. The building itself began life as one of the earliest broadcasters in Boston without even trying. In 1930, a working class tinkerer named **Jack DeAngelis** was experimenting with creating a low-power transmission signal to keep his neighborhood entertained during the great depression, as he figured radio would be an inexpensive way for the community to be engaged and entertained.
+Nerve began in 1967 in a small two-story building on Tremont Street in Boston built in the early 1900s. The building
+itself began life as one of the earliest broadcasters in Boston without even trying. In 1930, a working class tinkerer
+named **Jack DeAngelis** was experimenting with creating a low-power transmission signal to keep his neighborhood
+entertained during the great depression, as he figured radio would be an inexpensive way for the community to be
+engaged and entertained.
 
 ## A Brief History: A Chronicle of Boston’s Rock Radio Revolution
 
 **The 1960s**: ***Underground Beginnings***
 
-- Founded: A warm early Spring evening in May 1967 when a young Sam Marino saw the Velvet Underground at the Boston Tea Party and convinced them to give an interview.
+- Founded: A warm early Spring evening in May 1967 when a young Sam Marino saw the Velvet Underground at the Boston
+  Tea Party and convinced them to give an interview.
 - Frequency: 95.1 FM
 - Flagship Program: The Rock Cafe
 - Notable Feature: Live performances and vinyl record deep cuts
@@ -37,7 +44,8 @@ Nerve began in 1967 in a small two-story building on Tremont Street in Boston bu
 - Cultural Hub: Became a center for counter-culture
 - Station’s Motto: “The Rock Radio Revolution”
 - Danny O'Donovan takes over the Rock Cafe.
-- Danny O'Donovan continued to embrace political activism when he invited AIDS activists, members of the queer community, and families of the victims to have a voice to protest Ronald Reagan's AIDS crisis.
+- Danny O'Donovan continued to embrace political activism when he invited AIDS activists, members of the queer
+  community, and families of the victims to have a voice to protest Ronald Reagan's AIDS crisis.
 
 **The 1990s**: ***Grunge and Alternative Takeover***
 
@@ -68,11 +76,18 @@ Nerve began in 1967 in a small two-story building on Tremont Street in Boston bu
 - Ongoing Legacy: Continues to broadcast The Rock Cafe, now an institution
 - Musical Tapestry: Reflects musical evolution and societal changes.
 
-The Nerve 95.1 FM has been a steadfast companion to those who find solace, inspiration, and a sense of revolution in music. From its pirate radio roots to its status as a cornerstone of Boston’s music culture, The Nerve continues to throb with the lifeblood of rock and roll.
+The Nerve 95.1 FM has been a steadfast companion to those who find solace, inspiration, and a sense of revolution in
+music. From its pirate radio roots to its status as a cornerstone of Boston’s music culture, The Nerve continues to
+throb with the lifeblood of rock and roll.
 
 ## The Wall
 
-A legendary wall sitting in the studio since 1967. It's notoriaty began on that May 1967 evening when Lou Reed absent-mindedly scratched his name on the wall in an act of both boredom and defiance, Sam Marino saw it as an inspiration. Since that night, every band, DJ, and other musician that have come to the studio, have been given the chance to write, carve, or otherwise sign their name, doodle, or make their presence felt in any way they saw fit. From Robert Plant to Jimmy Page to John Lennon and Yoko Ono to Boy George to Billie Joe Armstrong all the way to Olivia Rodrigo, Billie Eilish, and Harry Styles - anyone who has set foot in the studio has made their presence known on the wall.
+A legendary wall sitting in the studio since 1967. It's notoriaty began on that May 1967 evening when Lou Reed
+absent-mindedly scratched his name on the wall in an act of both boredom and defiance, Sam Marino saw it as an
+inspiration. Since that night, every band, DJ, and other musician that have come to the studio, have been given the
+chance to write, carve, or otherwise sign their name, doodle, or make their presence felt in any way they saw fit. From
+Robert Plant to Jimmy Page to John Lennon and Yoko Ono to Boy George to Billie Joe Armstrong all the way to Olivia
+Rodrigo, Billie Eilish, and Harry Styles - anyone who has set foot in the studio has made their presence known on the wall.
 
 ## Daily Schedule
 
@@ -168,40 +183,87 @@ A legendary wall sitting in the studio since 1967. It's notoriaty began on that 
 
 ### DJs
 
-- **Danny O'Donovan**: Danny has grew up loving music. As a 15 year old boy in Worcester, he can remember the moment when he listened to Sam broadcasting the first time on the Nerve that May 1967 evening, as he interviewed Velvet Underground. It was that moment that he knew he wanted to be on the radio. As a 17 year old, he hitchhiked rom Worcester to Woodstock, with nothing on him but a backpack and a notepad in order to record his entire experience. That weekend changed his life, quite literally. Because of his detailed notes and recollection, he was invited to Berklee College of Music in 1970. He moved to Boston and the rest is history. In 1974, he began to intern at the Nerve and Sam immediate took notice. In 1975, he had his first on-air experience and in 1978, had his breakout moment and biggest moment of his career when he interviewed Debbie Harry and Blondie, at the very start of their careers.
+- **Danny O'Donovan**: Danny has grew up loving music. As a 15 year old boy in Worcester, he can remember the moment
+when he listened to Sam broadcasting the first time on the Nerve that May 1967 evening, as he interviewed Velvet
+Underground. It was that moment that he knew he wanted to be on the radio. As a 17 year old, he hitchhiked rom
+Worcester to Woodstock, with nothing on him but a backpack and a notepad in order to record his entire experience.
+That weekend changed his life, quite literally. Because of his detailed notes and recollection, he was invited to
+Berklee College of Music in 1970. He moved to Boston and the rest is history. In 1974, he began to intern at the Nerve
+and Sam immediate took notice. In 1975, he had his first on-air experience and in 1978, had his breakout moment and
+biggest moment of his career when he interviewed Debbie Harry and Blondie, at the very start of their careers.
 
-- **Danielle**: The current propriator of the Rock Cafe since 1995. A music journalist and cellist from a young age, she landed at The Nerve as not just one of the youngest DJs but also the youngest enrollee at Berklee College of Music, with a music pedigree that would put most to shame. In her trademark overalls, Sunny Day Real Estate t-shirt, a sunflower in her hair, and daisy necklace (a gift from her cellist wife), her interviews provide a sense of intimacy and warmth that make most who enter the Rock Cafe feel comfortable and ready to spill their most intimate of stories with the world.
+- **Danielle**: The current propriator of the Rock Cafe since 1995. A music journalist and cellist from a young age,
+she landed at The Nerve as not just one of the youngest DJs but also the youngest enrollee at Berklee College of Music,
+with a music pedigree that would put most to shame. In her trademark overalls, Sunny Day Real Estate t-shirt, a
+sunflower in her hair, and daisy necklace (a gift from her cellist wife), her interviews provide a sense of intimacy
+and warmth that make most who enter the Rock Cafe feel comfortable and ready to spill their most intimate of stories
+with the world.
 
 ## The Rock Cafe
 
 ### The Rock Cafe: A Pillar of Boston’s Counter Culture
 
-Since its inception in the 1960s, "The Rock Cafe" has been more than just a radio show; it’s been a cultural institution deeply intertwined with the city of Boston. As a beacon of the counter culture movement, the show provided a platform for the voices and music that mainstream media often overlooked or ignored. From the beginning of Nerve's origins, it has been a stable of the station; originally hosted by Station creator Sam, then by Danny, and now to the current host Danielle, it has been consistantly the destination for musicians touring the area.
+Since its inception in the 1960s, "The Rock Cafe" has been more than just a radio show; it’s been a cultural
+institution deeply intertwined with the city of Boston. As a beacon of the counter culture movement, the show provided
+a platform for the voices and music that mainstream media often overlooked or ignored. From the beginning of Nerve's
+origins, it has been a stable of the station; originally hosted by Station creator Sam, then by Danny, and now to the
+current host Danielle, it has been consistantly the destination for musicians touring the area.
 
-1960s: The Birth of a Revolution In the 1960s, "The Rock Cafe" began as a daring experiment. It quickly became a sanctuary for the anti-establishment wave sweeping through Boston. The show featured artists who were the soundtrack to the civil rights movement, anti-war protests, and the sexual revolution, solidifying its place in the heart of Boston’s counter culture. From the start of Nerve in May 1967, The Rock Cafe has been a part of it; hosted by station creator, Sam O'Donovan.
+1960s: The Birth of a Revolution In the 1960s, "The Rock Cafe" began as a daring experiment. It quickly became a
+sanctuary for the anti-establishment wave sweeping through Boston. The show featured artists who were the soundtrack to
+the civil rights movement, anti-war protests, and the sexual revolution, solidifying its place in the heart of Boston’s
+counter culture. From the start of Nerve in May 1967, The Rock Cafe has been a part of it; hosted by station creator,
+Sam O'Donovan.
 
-1970s: The Sound of Rebellion The 1970s saw "The Rock Cafe" champion the punk movement. It was a time when Boston’s underground music scene exploded, and the show was at the forefront, showcasing bands that would go on to become legends. The raw energy of punk rock echoed through the airwaves, resonating with the city’s rebellious spirit. In the 70s, Sam passed hosting reigns to Danny Marino.
+1970s: The Sound of Rebellion The 1970s saw "The Rock Cafe" champion the punk movement. It was a time when Boston’s
+underground music scene exploded, and the show was at the forefront, showcasing bands that would go on to become
+legends. The raw energy of punk rock echoed through the airwaves, resonating with the city’s rebellious spirit. In the
+70s, Sam passed hosting reigns to Danny Marino.
 
-1980s: The Indie and Alternative Era As the 1980s ushered in an era of indie and alternative rock, "The Rock Cafe" evolved. It became the pulse of Boston’s burgeoning indie scene, playing early tracks from bands that would later dominate the airwaves. The show was instrumental in bringing the indie subculture into the mainstream consciousness.
+1980s: The Indie and Alternative Era As the 1980s ushered in an era of indie and alternative rock, "The Rock Cafe"
+evolved. It became the pulse of Boston’s burgeoning indie scene, playing early tracks from bands that would later
+dominate the airwaves. The show was instrumental in bringing the indie subculture into the mainstream consciousness.
 
-1990s: Grunge and Beyond The grunge movement found a home on "The Rock Cafe" in the 1990s. The show captured the angst and disillusionment of a generation, while also exploring the rise of electronic and hip-hop influences that were beginning to permeate the rock genre. In the 90s, Danny passed the hosting duties to the current host, Danielle.
+1990s: Grunge and Beyond The grunge movement found a home on "The Rock Cafe" in the 1990s. The show captured the angst
+and disillusionment of a generation, while also exploring the rise of electronic and hip-hop influences that were
+beginning to permeate the rock genre. In the 90s, Danny passed the hosting duties to the current host, Danielle.
 
-2000s to Present: A New Millennium of Rock Entering the new millennium, "The Rock Cafe" continued to push boundaries. It embraced the diverse sounds of modern rock, from post-punk revival to the latest indie darlings. The show remained a staple of Boston’s music scene, often featuring live sessions that became the stuff of local legend.
+2000s to Present: A New Millennium of Rock Entering the new millennium, "The Rock Cafe" continued to push boundaries.
+It embraced the diverse sounds of modern rock, from post-punk revival to the latest indie darlings. The show remained a
+staple of Boston’s music scene, often featuring live sessions that became the stuff of local legend.
 
-Throughout the decades, "The Rock Cafe" has been a mirror to the shifting tides of Boston’s counter culture. It’s been a platform for political discourse, social commentary, and, most importantly, a unifying force for the community. The show’s deep links to Boston are evident in its unwavering support for local artists and its commitment to music that challenges the status quo.
+Throughout the decades, "The Rock Cafe" has been a mirror to the shifting tides of Boston’s counter culture. It’s been
+a platform for political discourse, social commentary, and, most importantly, a unifying force for the community. The
+show’s deep links to Boston are evident in its unwavering support for local artists and its commitment to music that
+challenges the status quo.
 
-As "The Rock Cafe" continues to broadcast, it carries with it the legacy of the past while constantly looking forward to the future of rock music and counterculture.
+As "The Rock Cafe" continues to broadcast, it carries with it the legacy of the past while constantly looking forward
+to the future of rock music and counterculture.
 
 ## DJ Luna: The Indie Oracle of The Nerve Underground
 
-DJ Luna is the celestial curator of indie music on The Nerve Underground. Known for her nocturnal show, she guides listeners through the constellations of underground sound. With a voice as soothing as the moon’s glow and a playlist as diverse as the night sky, she has become a beacon for those seeking solace in the indie music scene.
+DJ Luna is the celestial curator of indie music on The Nerve Underground. Known for her nocturnal show, she guides
+listeners through the constellations of underground sound. With a voice as soothing as the moon’s glow and a playlist
+as diverse as the night sky, she has become a beacon for those seeking solace in the indie music scene.
 
-Background: Luna’s journey into radio was written in the stars. A former music blogger and record store aficionado, her passion for discovering and sharing obscure tracks led her to The Nerve Underground. Her show, “The Indie Dive,” quickly became a sanctuary for indie enthusiasts and night owls alike. Joining the Nerve in the 2010's, she remains one of the newest DJs but still commands a large following of devoted listeners. Her unabashed queer and transness, makes her station a haven and safe space for marginalized and queer listeners across the state and world.
+Background: Luna’s journey into radio was written in the stars. A former music blogger and record store aficionado, her
+passion for discovering and sharing obscure tracks led her to The Nerve Underground. Her show, “The Indie Dive,”
+quickly became a sanctuary for indie enthusiasts and night owls alike. Joining the Nerve in the 2010's, she remains one
+of the newest DJs but still commands a large following of devoted listeners. Her unabashed queer and transness, makes
+her station a haven and safe space for marginalized and queer listeners across the state and world.
 
-The Indie Dive: Under Luna’s guidance, “The Indie Dive” explores the depths of the indie universe, from shoegaze to post-rock, and everything in between. Her show is a mosaic of sound, featuring live sessions, deep cuts, and interviews with artists on the cusp of breaking into the mainstream.
+The Indie Dive: Under Luna’s guidance, “The Indie Dive” explores the depths of the indie universe, from shoegaze to
+post-rock, and everything in between. Her show is a mosaic of sound, featuring live sessions, deep cuts, and interviews
+with artists on the cusp of breaking into the mainstream.
 
-Influence: DJ Luna’s influence extends beyond her show. She’s a tastemaker in the indie community, known for her ability to forecast the next big thing. Her playlists are not just collections of songs but narratives that tell the story of a movement that defies easy categorization.
+Influence: DJ Luna’s influence extends beyond her show. She’s a tastemaker in the indie community, known for her
+ability to forecast the next big thing. Her playlists are not just collections of songs but narratives that tell the
+story of a movement that defies easy categorization.
 
-Legacy: DJ Luna’s legacy is one of authenticity and exploration. She embodies the spirit of The Nerve Underground, championing music that resonates with the soul and connects listeners to the larger tapestry of human experience. As the host of “The Indie Dive,” DJ Luna continues to illuminate the path for those who wander in search of musical enlightenment.
+Legacy: DJ Luna’s legacy is one of authenticity and exploration. She embodies the spirit of The Nerve Underground,
+championing music that resonates with the soul and connects listeners to the larger tapestry of human experience. As
+the host of “The Indie Dive,” DJ Luna continues to illuminate the path for those who wander in search of musical enlightenment.
 
-Astral Nomad: One standout band featured on “The Indie Dive” is “Astral Nomad” from Reykjavik, Iceland. Their album “Echoes of the Void” was highlighted on a special segment of Luna’s show dedicated to the sounds of the aurora borealis. The exposure from the show led to a significant surge in recognition for the band.
+Astral Nomad: One standout band featured on “The Indie Dive” is “Astral Nomad” from Reykjavik, Iceland. Their album
+“Echoes of the Void” was highlighted on a special segment of Luna’s show dedicated to the sounds of the aurora
+borealis. The exposure from the show led to a significant surge in recognition for the band.
