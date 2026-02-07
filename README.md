@@ -154,6 +154,10 @@ A legendary wall sitting in the studio since 1967. It's notoriaty began on that 
 
 ### DJs
 
+- **Danny O'Donovan**: Danny has grew up loving music. As a 15 year old boy in Worcester, he can remember the moment when he listened to Sam broadcasting the first time on the Nerve that May 1967 evening, as he interviewed Velvet Underground. It was that moment that he knew he wanted to be on the radio. As a 17 year old, he hitchhiked rom Worcester to Woodstock, with nothing on him but a backpack and a notepad in order to record his entire experience. That weekend changed his life, quite literally. Because of his detailed notes and recollection, he was invited to Berklee College of Music in 1970. He moved to Boston and the rest is history. In 1974, he began to intern at the Nerve and Sam immediate took notice. In 1975, he had his first on-air experience and in 1978, had his breakout moment and biggest moment of his career when he interviewed Debbie Harry and Blondie, at the very start of their careers.
+
+- **Danielle**: The current propriator of the Rock Cafe since 1995. A music journalist and cellist from a young age, she landed at The Nerve as not just one of the youngest DJs but also the youngest enrollee at Berklee College of Music, with a music pedigree that would put most to shame. In her trademark overalls, Sunny Day Real Estate t-shirt, a sunflower in her hair, and daisy necklace (a gift from her cellist wife), her interviews provide a sense of intimacy and warmth that make most who enter the Rock Cafe feel comfortable and ready to spill their most intimate of stories with the world.
+
 ## The Rock Cafe
 
 ### The Rock Cafe: A Pillar of Boston’s Counter Culture
