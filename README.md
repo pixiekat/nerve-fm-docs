@@ -106,9 +106,11 @@ A legendary wall sitting in the studio since 1967. It's notoriaty began on that 
 
 **06:00-10:00**: The Worst of Ethan & Jared
 
-**12:00-14:00**: Travis
+**10:00-12:00**: Travis
 
-**14:00-18:00**: Elle D Weekender
+**12:00-14:00**: "Indie Spotlight" with Elle D
+
+**14:00-18:00**: Weekend Anthems
 
 **18:00-19:00**: Canada Rocks (Rayna)
 
@@ -116,7 +118,17 @@ A legendary wall sitting in the studio since 1967. It's notoriaty began on that 
 
 **21:00-23:00**: Chaos Circuit (JJ & Max)
 
+**23:00-24:00**: Lizzy “The Lizard” Grant
+
 #### Sunday
+
+**00:00-03:00**: Lizzy “The Lizard” Grant
+
+**06:00-10:00**: Sunday Morning Serenade, accoustic, spoken word, and mellow rock to start your day.
+
+**10:00-12:00**: The Ongoing History of New Music
+
+**12:00-14:00**: Rock Rewind; the best of the past week in rock.
 
 **16:00-17:00**: Canada Rocks (Rayna) [From Saturday]
 
@@ -132,7 +144,7 @@ A legendary wall sitting in the studio since 1967. It's notoriaty began on that 
 
 **00:00-06:00**: The Insomniac Sessions with DJ Phantom
 
-**06:00-10:00**: Morning Mayhem
+**06:00-11:00**: Morning Mayhem
 
 **11:00-12:00**: Ethan & Jared Shit Hour
 
@@ -145,6 +157,8 @@ A legendary wall sitting in the studio since 1967. It's notoriaty began on that 
 #### Weekends
 
 **12:00-17:00** The Vinyl Countdown with Mike & Chris
+
+**17:00-19:00**: Lizzie "The Lizard" Grant
 
 **19:00-21:00**: Witchcore; dark ambiance and experimental brews with Tawny
 
