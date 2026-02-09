@@ -157,19 +157,33 @@ Rodrigo, Billie Eilish, and Harry Styles - anyone who has set foot in the studio
 
 ### Underground
 
+**00:00-05:00**: Monday, Dream Factory with DJ Luna
+
+**05:00-06:00**: Monday, The Insomniac Sessions with DJ Phantom
+
 **00:00-06:00**: The Insomniac Sessions with DJ Phantom
 
 **06:00-11:00**: Morning Mayhem
 
 **11:00-12:00**: Ethan & Jared Shit Hour
 
-**12:00-15:00**: Indie Dive w/ DJ Luna
+**12:00-15:00**: Monday, Indie Dive w/ Kayla Sparkles (Kayla O'Donovan)
+
+**12:00-15:00**: Tuesday-Friday, Indie Dive w/ DJ Luna
 
 **15:00-20:00**: Rush Hour Rizz with JJ & Max
 
 **20:00-00:00**: The Night Shift with Vixen & Spike
 
 #### Weekends
+
+**00:00-05:00**: Dream Factory with DJ Luna
+
+**05:00-08:00**: Sunday Morning Serenade: Lo-fi, emo wakeup to your weekend with Simon
+
+**08:00-10:00**: The Morning Show: New, live, and breaking music.
+
+**10:00-12:00**:  Coffee & Cassettes with Sam "The Archivist"
 
 **12:00-17:00** The Vinyl Countdown with Mike & Chris
 
