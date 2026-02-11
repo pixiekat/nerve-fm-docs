@@ -171,7 +171,10 @@ Rodrigo, Billie Eilish, and Harry Styles - anyone who has set foot in the studio
 
 **12:00-15:00**: Tuesday-Friday, Indie Dive w/ DJ Luna
 
-**15:00-20:00**: Rush Hour Rizz with JJ & Max
+**15:00-18:00**: Rush Hour Rizz with JJ & Max
+
+**18:00-20:00**: riot grrl rave; Morgana dives into the world of queer, feminist, intersectional, and black punk, metal,
+and riot grrl music. Unapologetically black, queer, and feminist.
 
 **20:00-00:00**: The Night Shift with Vixen & Spike
 
@@ -179,13 +182,13 @@ Rodrigo, Billie Eilish, and Harry Styles - anyone who has set foot in the studio
 
 **00:00-05:00**: Dream Factory with DJ Luna
 
-**05:00-08:00**: Sunday Morning Serenade: Lo-fi, emo wakeup to your weekend with Simon
+**05:00-08:00**: Stevie's Alt Rock Nation
 
 **08:00-10:00**: The Morning Show: New, live, and breaking music.
 
-**10:00-12:00**:  Coffee & Cassettes with Sam "The Archivist"
+**10:00-12:00**: Coffee & Cassettes with Sam "The Archivist"
 
-**12:00-17:00** The Vinyl Countdown with Mike & Chris
+**12:00-17:00**: The Vinyl Countdown with Mike & Chris
 
 **17:00-19:00**: Lizzie "The Lizard" Grant
 
