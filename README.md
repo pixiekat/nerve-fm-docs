@@ -109,7 +109,7 @@ Rodrigo, Billie Eilish, and Harry Styles - anyone who has set foot in the studio
 
 **11:00-12:00**: The Rock Cafe w/ Danielle
 
-**12:00-15:00**: The Naked Lunch w/ Natasha
+**12:00-15:00**: The Naked Lunch w/ Natasha; Interns: Stevie (and guest host)
 
 **15:00-19:00**: The Afternoon Fiasco w/ Mike & Chris
 
