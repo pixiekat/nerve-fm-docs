@@ -287,3 +287,23 @@ the host of “The Indie Dive,” DJ Luna continues to illuminate the path for t
 Astral Nomad: One standout band featured on “The Indie Dive” is “Astral Nomad” from Reykjavik, Iceland. Their album
 “Echoes of the Void” was highlighted on a special segment of Luna’s show dedicated to the sounds of the aurora
 borealis. The exposure from the show led to a significant surge in recognition for the band.
+
+## NerveTV
+
+In 2020, Nerve soft launched a new digital media portal on their website called NerveTV. Originally, a place for exclusive
+clips and content from the radio station, it has quickly grown to be a spiritual successor to channels like MTV and MuchMusic.
+Helmed by Rayna, the current program directory, she took a small studio apartment in the basement of the DeAngelus building
+and turned it into a scrappy, nostalgic video music clubhouse. The studio is small and intimate; enough for a green screen,
+VJ, and occasional musical guests but it works.a
+
+### Schedule
+
+The schedule is currently in beta, as NerveTV is still in the experimental stages but the following can be expected on
+the air.
+
+**The Chart Show**: Rayna hosts a weekly look at the top songs, artists, albums, and culture in all things music.
+Also heard on Nerve FM, in audio form. The NerveTV form is two hours and covers everything in music - news, concerts,
+albums, videos - for the week.
+
+**Live and Loud**: Saturday nights is the time to get loud with the best in metal; hosted by VJ Nikki and special
+musical guests. Live, loud, uncensored hard rock and metal for four hours.
