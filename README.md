@@ -20,7 +20,9 @@ Nerve began in 1967 in a small two-story building on Tremont Street in Boston bu
 itself began life as one of the earliest broadcasters in Boston without even trying. In 1930, a working class tinkerer
 named **Jack DeAngelis** was experimenting with creating a low-power transmission signal to keep his neighborhood
 entertained during the great depression, as he figured radio would be an inexpensive way for the community to be
-engaged and entertained.
+engaged and entertained. Jack had a daughter, Margaret DeAngelis, who married Frank Caruso. Frank and Sam's dad, Angelo
+, were friends and it was Frank and Margaret, who agreed to let Sam's dad carry the lease of the DeAngelis building
+which had just shed the previous tennants, the DOD.
 
 ## A Brief History: A Chronicle of Boston’s Rock Radio Revolution
 
