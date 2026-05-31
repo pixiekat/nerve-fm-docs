@@ -229,6 +229,12 @@ metal, and riot grrl music. Unapologetically black, queer, and feminist.
 
 ### DJs
 
+- **Sam Marino**: The original creator of the Nerve, since 1967. Though he turned over duties to Danny and day to
+day operations in the late 80's, he still occaisionally shows up on air for Coffee and Cassettes to do a free form
+styled show with his friends. A mainstay in Boston radio since the 60s, he showed up at BCN on their final broadcast
+to support everyone and ended up being pulled on air to do an impromptu four hour show with Peter Wolf, Charles Laquidara,
+and Sam Kopper, reminscing about the last 50 years in Boston radio.
+
 - **Danny O'Donovan**: Danny has grew up loving music. As a 15 year old boy in Worcester, he can remember the
 moment when he listened to Sam broadcasting the first time on the Nerve that May 1967 evening, as he interviewed
 Velvet Underground. It was that moment that he knew he wanted to be on the radio. As a 17 year old, he hitchhiked
@@ -237,7 +243,8 @@ That weekend changed his life, quite literally. Because of his detailed notes an
 to Berklee College of Music in 1970. He moved to Boston and the rest is history. In 1974, he began to intern at
 the Nerve and Sam immediate took notice. In 1975, he had his first on-air experience and in 1978, had his breakout
 moment and biggest moment of his career when he interviewed Debbie Harry and Blondie, at the very start of their
-careers.
+careers. His children, Zombie Boy George and Kayla Sparkles, cary on the tradition of Nerve in their own work
+at the Nerve.
 
 - **Danielle**: The current propriator of the Rock Cafe since 1995. A music journalist and cellist from a young
 age, she landed at The Nerve as not just one of the youngest DJs but also the youngest enrollee at Berklee
