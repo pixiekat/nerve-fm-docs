@@ -229,13 +229,17 @@ metal, and riot grrl music. Unapologetically black, queer, and feminist.
 
 ### DJs
 
-- **Sam Marino**: The original creator of the Nerve, since 1967. Though he turned over duties to Danny and day to
+#### **Sam Marino**
+
+The original creator of the Nerve, since 1967. Though he turned over duties to Danny and day to
 day operations in the late 80's, he still occaisionally shows up on air for Coffee and Cassettes to do a free form
 styled show with his friends. A mainstay in Boston radio since the 60s, he showed up at BCN on their final broadcast
 to support everyone and ended up being pulled on air to do an impromptu four hour show with Peter Wolf, Charles Laquidara,
 and Sam Kopper, reminscing about the last 50 years in Boston radio.
 
-- **Danny O'Donovan**: Danny has grew up loving music. As a 15 year old boy in Worcester, he can remember the
+#### **Danny O'Donovan**
+
+Danny has grew up loving music. As a 15 year old boy in Worcester, he can remember the
 moment when he listened to Sam broadcasting the first time on the Nerve that May 1967 evening, as he interviewed
 Velvet Underground. It was that moment that he knew he wanted to be on the radio. As a 17 year old, he hitchhiked
 from Worcester to Woodstock, with nothing on him but a backpack and a notepad in order to record his entire experience.
@@ -246,18 +250,22 @@ moment and biggest moment of his career when he interviewed Debbie Harry and Blo
 careers. His children, Zombie Boy George and Kayla Sparkles, cary on the tradition of Nerve in their own work
 at the Nerve.
 
-- **Danielle**: The current propriator of the Rock Cafe since 1995. A music journalist and cellist from a young
+#### **Danielle**
+
+The current propriator of the Rock Cafe since 1995. A music journalist and cellist from a young
 age, she landed at The Nerve as not just one of the youngest DJs but also the youngest enrollee at Berklee
 College of Music, with a music pedigree that would put most to shame. In her trademark overalls, Sunny Day Real
 Estate t-shirt, a sunflower in her hair, and daisy necklace (a gift from her cellist wife), her interviews provide
 a sense of intimacy and warmth that make most who enter the Rock Cafe feel comfortable and ready to spill their
 most intimate of stories with the world.
 
-- **DJ Phantom**: In the shadowy hours when the city sleeps, DJ Phantom emerges as the enigmatic voice of The Nerve
+#### **DJ Phantom**
+
+In the shadowy hours when the city sleeps, DJ Phantom emerges as the enigmatic voice of The Nerve
 Underground. Known for their elusive presence and a penchant for the obscure, DJ Phantom is a figure shrouded in
 mystery, captivating listeners with a blend of rare tracks and eclectic sounds that defy the mainstream.
 
-Background: DJ Phantom's origins are as mysterious as the persona they've cultivated. Rumors swirl about a past life
+**Background**: DJ Phantom's origins are as mysterious as the persona they've cultivated. Rumors swirl about a past life
 as a record store owner who amassed an unparalleled collection of vinyl, or as a touring musician who left the stage
 for the airwaves. The truth remains a closely guarded secret, known only to DJ Phantom.
 
@@ -265,16 +273,49 @@ The Insomniac Sessions: As the host of “The Insomniac Sessions,” DJ Phantom 
 forgotten classics to avant-garde indie. Their show is a haven for night owls and music aficionados seeking solace in
 the solitude of the late hours.
 
-Influence: DJ Phantom's influence extends beyond their radio show. They are a tastemaker, unearthing hidden gems and
+**Influence**: DJ Phantom's influence extends beyond their radio show. They are a tastemaker, unearthing hidden gems and
 championing underground artists. Their playlists are a siren call to those who wander off the beaten path in search of
 sonic adventure.
 
-Legacy: With a voice that's both comforting and cryptic, DJ Phantom has become a legend of The Nerve Underground.
+**Legacy**: With a voice that's both comforting and cryptic, DJ Phantom has become a legend of The Nerve Underground.
 They embody the station's spirit of independence and its commitment to music that challenges, inspires, and transcends.
 
-- **Vixen & Spike: The Androgynous Icons of The Nerve Underground**: Vixen and Spike, the enigmatic duo of The Nerve
-Underground, are the embodiment of the station's edgy and rebellious spirit. With their androgynous allure and a
-penchant for the unconventional, they've become icons of the alternative music scene.
+#### **DJ Luna** &mdash; ***The Indie Oracle of The Nerve Underground***
+
+DJ Luna is the celestial curator of indie music on The Nerve Underground. Known for her nocturnal show, she guides
+listeners through the constellations of underground sound. With a voice as soothing as the moon's glow and a playlist
+as diverse as the night sky, she has become a beacon for those seeking solace in the indie music scene. She currently
+runs the Indie Dive with producer Kayla Sparkles, who is also her in real life partner.
+
+**Background**: Luna's journey into radio was written in the stars. A former music blogger and record store aficionado,
+her passion for discovering and sharing obscure tracks led her to The Nerve Underground. Her show, “The Indie
+Dive,” quickly became a sanctuary for indie enthusiasts and night owls alike. Joining the Nerve in the 2010's,
+she remains one of the newest DJs but still commands a large following of devoted listeners. Her unabashed queer
+and transness, makes her station a haven and safe space for marginalized and queer listeners across the state
+and world.
+
+**The Indie Dive**: Under Luna's guidance, “The Indie Dive” explores the depths of the indie universe, from shoegaze
+to post-rock, and everything in between. Her show is a mosaic of sound, featuring live sessions, deep cuts, and
+interviews with artists on the cusp of breaking into the mainstream.
+
+**Influence**: DJ Luna's influence extends beyond her show. She's a tastemaker in the indie community, known for her
+ability to forecast the next big thing. Her playlists are not just collections of songs but narratives that tell
+the story of a movement that defies easy categorization.
+
+**Legacy**: DJ Luna's legacy is one of authenticity and exploration. She embodies the spirit of The Nerve Underground,
+championing music that resonates with the soul and connects listeners to the larger tapestry of human experience.
+As the host of “The Indie Dive,” DJ Luna continues to illuminate the path for those who wander in search of
+musical enlightenment.
+
+**Astral Nomad**: One standout band featured on “The Indie Dive” is “Astral Nomad” from Reykjavik, Iceland. Their
+album “Echoes of the Void” was highlighted on a special segment of Luna's show dedicated to the sounds of the
+aurora borealis. The exposure from the show led to a significant surge in recognition for the band.
+
+#### **Vixen & Spike** &mdash; ***The Androgynous Icons of The Nerve Underground***
+
+Vixen and Spike, the enigmatic duo of The Nerve Underground, are the embodiment of the station's edgy and rebellious
+spirit. With their androgynous allure and a penchant for the unconventional, they've become icons of the alternative
+music scene.
 
 Vixen, known for her leather jacket and commanding presence, brings a blend of punk ethos and intellectual
 depth to the airwaves. Her background as a music journalist and activist gives her a unique perspective that challenges
@@ -283,15 +324,15 @@ listeners to think critically about the world around them.
 Spike, with his spiked collar and devil-may-care attitude, is the quintessential rock 'n' roll rebel. A former band
 frontman, his transition to radio was fueled by a desire to connect with a wider audience and share the raw power of music.
 
-The Night Shift: Together, they host “The Night Shift,” a show that delves into the darker corners of rock music and
+**The Night Shift**: Together, they host “The Night Shift,” a show that delves into the darker corners of rock music and
 culture. Their chemistry is palpable, as they trade barbs, share stories, and spin tracks that range from gothic rock
 to industrial metal.
 
-Influence: Vixen & Spike are more than just hosts; they are influencers within the music community. They champion
+**Influence**: Vixen & Spike are more than just hosts; they are influencers within the music community. They champion
 underground bands and create a platform for genres often overlooked by mainstream media. Their interviews are legendary,
 often revealing the most intimate details of an artist's creative process.
 
-Legacy: Their legacy is one of authenticity and audacity. Vixen & Spike have inspired a generation of listeners to
+**Legacy**: Their legacy is one of authenticity and audacity. Vixen & Spike have inspired a generation of listeners to
 embrace their individuality and to question the status quo. As the voices of “The Nerve Underground,” they continue to
 push the boundaries of what radio can be, proving that music is not just sound—it's a revolution.
 
@@ -308,6 +349,13 @@ resonated with their audience.
 This clash became a testament to their dynamic as co-hosts: passionate about music, unafraid of confrontation, and
 always able to find harmony in the discord. It was a moment that solidified their status as icons of The Nerve
 Underground, embodying the station's commitment to raw, unscripted, and authentic broadcasting.
+
+#### Rayna
+
+Rayna came to the Nerve in the early 2000s. A veteran of both music and television, she began her career in Canada at
+CBC Kids as a child actor before interning at Edge 102 and The Score before becoming an on-air presence at MuchMusic.
+She was about to continue her career in the States at MTV, but a last minute interception by Danny steered her to the
+direction of the Nerve, where she remains today as creative director for Nerve Digital.
 
 ## The Rock Cafe
 
@@ -351,36 +399,6 @@ music that challenges the status quo.
 
 As "The Rock Cafe" continues to broadcast, it carries with it the legacy of the past while constantly looking
 forward to the future of rock music and counterculture.
-
-## DJ Luna: The Indie Oracle of The Nerve Underground
-
-DJ Luna is the celestial curator of indie music on The Nerve Underground. Known for her nocturnal show, she guides
-listeners through the constellations of underground sound. With a voice as soothing as the moon's glow and a playlist
-as diverse as the night sky, she has become a beacon for those seeking solace in the indie music scene.
-
-Background: Luna's journey into radio was written in the stars. A former music blogger and record store aficionado,
-her passion for discovering and sharing obscure tracks led her to The Nerve Underground. Her show, “The Indie
-Dive,” quickly became a sanctuary for indie enthusiasts and night owls alike. Joining the Nerve in the 2010's,
-she remains one of the newest DJs but still commands a large following of devoted listeners. Her unabashed queer
-and transness, makes her station a haven and safe space for marginalized and queer listeners across the state
-and world.
-
-The Indie Dive: Under Luna's guidance, “The Indie Dive” explores the depths of the indie universe, from shoegaze
-to post-rock, and everything in between. Her show is a mosaic of sound, featuring live sessions, deep cuts, and
-interviews with artists on the cusp of breaking into the mainstream.
-
-Influence: DJ Luna's influence extends beyond her show. She's a tastemaker in the indie community, known for her
-ability to forecast the next big thing. Her playlists are not just collections of songs but narratives that tell
-the story of a movement that defies easy categorization.
-
-Legacy: DJ Luna's legacy is one of authenticity and exploration. She embodies the spirit of The Nerve Underground,
-championing music that resonates with the soul and connects listeners to the larger tapestry of human experience.
-As the host of “The Indie Dive,” DJ Luna continues to illuminate the path for those who wander in search of
-musical enlightenment.
-
-Astral Nomad: One standout band featured on “The Indie Dive” is “Astral Nomad” from Reykjavik, Iceland. Their
-album “Echoes of the Void” was highlighted on a special segment of Luna's show dedicated to the sounds of the
-aurora borealis. The exposure from the show led to a significant surge in recognition for the band.
 
 ## NerveTV
 
