@@ -280,7 +280,7 @@ Vixen, known for her leather jacket and commanding presence, brings a blend of p
 depth to the airwaves. Her background as a music journalist and activist gives her a unique perspective that challenges
 listeners to think critically about the world around them.
 
-Spike, with his spiked collar and devil-may-care attitude, is the quintessential rock ‘n' roll rebel. A former band
+Spike, with his spiked collar and devil-may-care attitude, is the quintessential rock 'n' roll rebel. A former band
 frontman, his transition to radio was fueled by a desire to connect with a wider audience and share the raw power of music.
 
 The Night Shift: Together, they host “The Night Shift,” a show that delves into the darker corners of rock music and
