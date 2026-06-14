@@ -253,6 +253,62 @@ Estate t-shirt, a sunflower in her hair, and daisy necklace (a gift from her cel
 a sense of intimacy and warmth that make most who enter the Rock Cafe feel comfortable and ready to spill their
 most intimate of stories with the world.
 
+- **DJ Phantom**: In the shadowy hours when the city sleeps, DJ Phantom emerges as the enigmatic voice of The Nerve
+Underground. Known for their elusive presence and a penchant for the obscure, DJ Phantom is a figure shrouded in
+mystery, captivating listeners with a blend of rare tracks and eclectic sounds that defy the mainstream.
+
+Background: DJ Phantom’s origins are as mysterious as the persona they’ve cultivated. Rumors swirl about a past life
+as a record store owner who amassed an unparalleled collection of vinyl, or as a touring musician who left the stage
+for the airwaves. The truth remains a closely guarded secret, known only to DJ Phantom.
+
+The Insomniac Sessions: As the host of “The Insomniac Sessions,” DJ Phantom weaves a nocturnal tapestry of sound, from
+forgotten classics to avant-garde indie. Their show is a haven for night owls and music aficionados seeking solace in
+the solitude of the late hours.
+
+Influence: DJ Phantom’s influence extends beyond their radio show. They are a tastemaker, unearthing hidden gems and
+championing underground artists. Their playlists are a siren call to those who wander off the beaten path in search of
+sonic adventure.
+
+Legacy: With a voice that’s both comforting and cryptic, DJ Phantom has become a legend of The Nerve Underground.
+They embody the station’s spirit of independence and its commitment to music that challenges, inspires, and transcends.
+
+- **Vixen & Spike: The Androgynous Icons of The Nerve Underground**: Vixen and Spike, the enigmatic duo of The Nerve
+Underground, are the embodiment of the station’s edgy and rebellious spirit. With their androgynous allure and a
+penchant for the unconventional, they’ve become icons of the alternative music scene.
+
+Vixen, known for her leather jacket and commanding presence, brings a blend of punk ethos and intellectual
+depth to the airwaves. Her background as a music journalist and activist gives her a unique perspective that challenges
+listeners to think critically about the world around them.
+
+Spike, with his spiked collar and devil-may-care attitude, is the quintessential rock ‘n’ roll rebel. A former band
+frontman, his transition to radio was fueled by a desire to connect with a wider audience and share the raw power of music.
+
+The Night Shift: Together, they host “The Night Shift,” a show that delves into the darker corners of rock music and
+culture. Their chemistry is palpable, as they trade barbs, share stories, and spin tracks that range from gothic rock
+to industrial metal.
+
+Influence: Vixen & Spike are more than just hosts; they are influencers within the music community. They champion
+underground bands and create a platform for genres often overlooked by mainstream media. Their interviews are legendary,
+often revealing the most intimate details of an artist’s creative process.
+
+Legacy: Their legacy is one of authenticity and audacity. Vixen & Spike have inspired a generation of listeners to
+embrace their individuality and to question the status quo. As the voices of “The Nerve Underground,” they continue to
+push the boundaries of what radio can be, proving that music is not just sound—it’s a revolution.
+
+While Vixen & Spike are known for their electrifying on-air chemistry, there was one particularly memorable live show
+where tensions flared. The incident occurred during a heated debate over the evolution of rock music. Vixen, ever the
+punk purist, argued for the genre’s return to its rebellious roots, while Spike, with his love for the theatrical
+elements of glam rock, defended the genre’s experimental progressions.
+
+The discussion escalated, voices rose, and for a moment, it seemed as if the duo would reach an impasse. However, true
+to their professional ethos and the spirit of “The Nerve Underground,” they turned the clash into a moment of radio
+gold. They invited listeners to weigh in, transforming their disagreement into an engaging and inclusive debate that
+resonated with their audience.
+
+This clash became a testament to their dynamic as co-hosts: passionate about music, unafraid of confrontation, and
+always able to find harmony in the discord. It was a moment that solidified their status as icons of The Nerve
+Underground, embodying the station’s commitment to raw, unscripted, and authentic broadcasting.
+
 ## The Rock Cafe
 
 ### The Rock Cafe: A Pillar of Boston’s Counter Culture
