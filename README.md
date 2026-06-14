@@ -24,7 +24,7 @@ community to be engaged and entertained. Jack had a daughter, Margaret DeAngelis
 Frank and Sam's dad, Angelo, were friends and it was Frank and Margaret, who agreed to let Sam's dad carry the
 lease of the DeAngelis building which had just shed the previous tenants, the US Department of Defense.
 
-## A Brief History: A Chronicle of Boston’s Rock Radio Revolution
+## A Brief History: A Chronicle of Boston's Rock Radio Revolution
 
 **The 1960s**: ***Underground Beginnings***
 
@@ -36,7 +36,7 @@ wouldn't touch it.
   Tea Party and convinced them to give an interview.
 - Flagship Program: The Rock Cafe
 - Notable Feature: Live performances and vinyl record deep cuts
-- Cultural Impact: Became a voice for Boston’s rock scene, broadcasting from the same Tremont Street building
+- Cultural Impact: Became a voice for Boston's rock scene, broadcasting from the same Tremont Street building
 where Jack DeAngelis had run his Depression-era community broadcasts decades earlier.
 
 **The 1970s**: ***The Voice of a Generation***
@@ -56,7 +56,7 @@ praised broadcasts in the station's history.
 
 - Genre Inclusion: Embraced punk, new wave, and indie rock
 - Cultural Hub: Became a center for counter-culture
-- Station’s Motto: “The Rock Radio Revolution”
+- Station's Motto: “The Rock Radio Revolution”
 - Danny O'Donovan takes over the Rock Cafe.
 
 **The 1990s**: ***Grunge and Alternative Takeover***
@@ -66,7 +66,7 @@ helm mid-decade, while Elle D stepping into the program director role signaled a
 artist-first editorial voice.
 
 - Grunge Movement: Featured bands like Nirvana and Pearl Jam
-- Youth Connection: Resonated with the era’s disaffected youth
+- Youth Connection: Resonated with the era's disaffected youth
 - Historical Significance: Cemented its place in rock history.
 - Danielle takes over the Rock Cafe.
 - Elle D becomes program director.
@@ -99,12 +99,12 @@ Underground channel.
 NerveTV soft-launched in 2020, helmed by Rayna, evolving from a clip archive into a full video music channel —
 a spiritual successor to MTV and MuchMusic.
 
-- Current Status: A testament to independent radio’s power
+- Current Status: A testament to independent radio's power
 - Ongoing Legacy: Continues to broadcast The Rock Cafe, now an institution
 - Musical Tapestry: Reflects musical evolution and societal changes.
 
 The Nerve 95.1 FM has been a steadfast companion to those who find solace, inspiration, and a sense of revolution
-in music. From its pirate radio roots to its status as a cornerstone of Boston’s music culture, The Nerve continues
+in music. From its pirate radio roots to its status as a cornerstone of Boston's music culture, The Nerve continues
 to throb with the lifeblood of rock and roll.
 
 ## The Wall
@@ -257,7 +257,7 @@ most intimate of stories with the world.
 Underground. Known for their elusive presence and a penchant for the obscure, DJ Phantom is a figure shrouded in
 mystery, captivating listeners with a blend of rare tracks and eclectic sounds that defy the mainstream.
 
-Background: DJ Phantom’s origins are as mysterious as the persona they’ve cultivated. Rumors swirl about a past life
+Background: DJ Phantom's origins are as mysterious as the persona they've cultivated. Rumors swirl about a past life
 as a record store owner who amassed an unparalleled collection of vinyl, or as a touring musician who left the stage
 for the airwaves. The truth remains a closely guarded secret, known only to DJ Phantom.
 
@@ -265,22 +265,22 @@ The Insomniac Sessions: As the host of “The Insomniac Sessions,” DJ Phantom 
 forgotten classics to avant-garde indie. Their show is a haven for night owls and music aficionados seeking solace in
 the solitude of the late hours.
 
-Influence: DJ Phantom’s influence extends beyond their radio show. They are a tastemaker, unearthing hidden gems and
+Influence: DJ Phantom's influence extends beyond their radio show. They are a tastemaker, unearthing hidden gems and
 championing underground artists. Their playlists are a siren call to those who wander off the beaten path in search of
 sonic adventure.
 
-Legacy: With a voice that’s both comforting and cryptic, DJ Phantom has become a legend of The Nerve Underground.
-They embody the station’s spirit of independence and its commitment to music that challenges, inspires, and transcends.
+Legacy: With a voice that's both comforting and cryptic, DJ Phantom has become a legend of The Nerve Underground.
+They embody the station's spirit of independence and its commitment to music that challenges, inspires, and transcends.
 
 - **Vixen & Spike: The Androgynous Icons of The Nerve Underground**: Vixen and Spike, the enigmatic duo of The Nerve
-Underground, are the embodiment of the station’s edgy and rebellious spirit. With their androgynous allure and a
-penchant for the unconventional, they’ve become icons of the alternative music scene.
+Underground, are the embodiment of the station's edgy and rebellious spirit. With their androgynous allure and a
+penchant for the unconventional, they've become icons of the alternative music scene.
 
 Vixen, known for her leather jacket and commanding presence, brings a blend of punk ethos and intellectual
 depth to the airwaves. Her background as a music journalist and activist gives her a unique perspective that challenges
 listeners to think critically about the world around them.
 
-Spike, with his spiked collar and devil-may-care attitude, is the quintessential rock ‘n’ roll rebel. A former band
+Spike, with his spiked collar and devil-may-care attitude, is the quintessential rock ‘n' roll rebel. A former band
 frontman, his transition to radio was fueled by a desire to connect with a wider audience and share the raw power of music.
 
 The Night Shift: Together, they host “The Night Shift,” a show that delves into the darker corners of rock music and
@@ -289,16 +289,16 @@ to industrial metal.
 
 Influence: Vixen & Spike are more than just hosts; they are influencers within the music community. They champion
 underground bands and create a platform for genres often overlooked by mainstream media. Their interviews are legendary,
-often revealing the most intimate details of an artist’s creative process.
+often revealing the most intimate details of an artist's creative process.
 
 Legacy: Their legacy is one of authenticity and audacity. Vixen & Spike have inspired a generation of listeners to
 embrace their individuality and to question the status quo. As the voices of “The Nerve Underground,” they continue to
-push the boundaries of what radio can be, proving that music is not just sound—it’s a revolution.
+push the boundaries of what radio can be, proving that music is not just sound—it's a revolution.
 
 While Vixen & Spike are known for their electrifying on-air chemistry, there was one particularly memorable live show
 where tensions flared. The incident occurred during a heated debate over the evolution of rock music. Vixen, ever the
-punk purist, argued for the genre’s return to its rebellious roots, while Spike, with his love for the theatrical
-elements of glam rock, defended the genre’s experimental progressions.
+punk purist, argued for the genre's return to its rebellious roots, while Spike, with his love for the theatrical
+elements of glam rock, defended the genre's experimental progressions.
 
 The discussion escalated, voices rose, and for a moment, it seemed as if the duo would reach an impasse. However, true
 to their professional ethos and the spirit of “The Nerve Underground,” they turned the clash into a moment of radio
@@ -307,13 +307,13 @@ resonated with their audience.
 
 This clash became a testament to their dynamic as co-hosts: passionate about music, unafraid of confrontation, and
 always able to find harmony in the discord. It was a moment that solidified their status as icons of The Nerve
-Underground, embodying the station’s commitment to raw, unscripted, and authentic broadcasting.
+Underground, embodying the station's commitment to raw, unscripted, and authentic broadcasting.
 
 ## The Rock Cafe
 
-### The Rock Cafe: A Pillar of Boston’s Counter Culture
+### The Rock Cafe: A Pillar of Boston's Counter Culture
 
-Since its inception in the 1960s, "The Rock Cafe" has been more than just a radio show; it’s been a cultural
+Since its inception in the 1960s, "The Rock Cafe" has been more than just a radio show; it's been a cultural
 institution deeply intertwined with the city of Boston. As a beacon of the counter culture movement, the show
 provided a platform for the voices and music that mainstream media often overlooked or ignored. From the
 beginning of Nerve's origins, it has been a stable of the station; originally hosted by Station creator Sam,
@@ -323,16 +323,16 @@ touring the area.
 1960s: The Birth of a Revolution In the 1960s, "The Rock Cafe" began as a daring experiment. It quickly became
 a sanctuary for the anti-establishment wave sweeping through Boston. The show featured artists who were the
 soundtrack to the civil rights movement, anti-war protests, and the sexual revolution, solidifying its place in
-the heart of Boston’s counter culture. From the start of Nerve in May 1967, The Rock Cafe has been a part of
+the heart of Boston's counter culture. From the start of Nerve in May 1967, The Rock Cafe has been a part of
 it; hosted by station creator, Sam Marino.
 
-1970s: The Sound of Rebellion The 1970s saw "The Rock Cafe" champion the punk movement. It was a time when Boston’s
+1970s: The Sound of Rebellion The 1970s saw "The Rock Cafe" champion the punk movement. It was a time when Boston's
 underground music scene exploded, and the show was at the forefront, showcasing bands that would go on to become
-legends. The raw energy of punk rock echoed through the airwaves, resonating with the city’s rebellious spirit.
+legends. The raw energy of punk rock echoed through the airwaves, resonating with the city's rebellious spirit.
 In the 70s, Sam passed hosting reigns to Danny O'Donnovan.
 
 1980s: The Indie and Alternative Era As the 1980s ushered in an era of indie and alternative rock, "The Rock Cafe"
-evolved. It became the pulse of Boston’s burgeoning indie scene, playing early tracks from bands that would later
+evolved. It became the pulse of Boston's burgeoning indie scene, playing early tracks from bands that would later
 dominate the airwaves. The show was instrumental in bringing the indie subculture into the mainstream consciousness.
 
 1990s: Grunge and Beyond The grunge movement found a home on "The Rock Cafe" in the 1990s. The show captured the
@@ -342,11 +342,11 @@ Danielle.
 
 2000s to Present: A New Millennium of Rock Entering the new millennium, "The Rock Cafe" continued to push boundaries.
 It embraced the diverse sounds of modern rock, from post-punk revival to the latest indie darlings. The show remained
-a staple of Boston’s music scene, often featuring live sessions that became the stuff of local legend.
+a staple of Boston's music scene, often featuring live sessions that became the stuff of local legend.
 
-Throughout the decades, "The Rock Cafe" has been a mirror to the shifting tides of Boston’s counter culture. It’s
+Throughout the decades, "The Rock Cafe" has been a mirror to the shifting tides of Boston's counter culture. It's
 been a platform for political discourse, social commentary, and, most importantly, a unifying force for the community.
-The show’s deep links to Boston are evident in its unwavering support for local artists and its commitment to
+The show's deep links to Boston are evident in its unwavering support for local artists and its commitment to
 music that challenges the status quo.
 
 As "The Rock Cafe" continues to broadcast, it carries with it the legacy of the past while constantly looking
@@ -355,31 +355,31 @@ forward to the future of rock music and counterculture.
 ## DJ Luna: The Indie Oracle of The Nerve Underground
 
 DJ Luna is the celestial curator of indie music on The Nerve Underground. Known for her nocturnal show, she guides
-listeners through the constellations of underground sound. With a voice as soothing as the moon’s glow and a playlist
+listeners through the constellations of underground sound. With a voice as soothing as the moon's glow and a playlist
 as diverse as the night sky, she has become a beacon for those seeking solace in the indie music scene.
 
-Background: Luna’s journey into radio was written in the stars. A former music blogger and record store aficionado,
+Background: Luna's journey into radio was written in the stars. A former music blogger and record store aficionado,
 her passion for discovering and sharing obscure tracks led her to The Nerve Underground. Her show, “The Indie
 Dive,” quickly became a sanctuary for indie enthusiasts and night owls alike. Joining the Nerve in the 2010's,
 she remains one of the newest DJs but still commands a large following of devoted listeners. Her unabashed queer
 and transness, makes her station a haven and safe space for marginalized and queer listeners across the state
 and world.
 
-The Indie Dive: Under Luna’s guidance, “The Indie Dive” explores the depths of the indie universe, from shoegaze
+The Indie Dive: Under Luna's guidance, “The Indie Dive” explores the depths of the indie universe, from shoegaze
 to post-rock, and everything in between. Her show is a mosaic of sound, featuring live sessions, deep cuts, and
 interviews with artists on the cusp of breaking into the mainstream.
 
-Influence: DJ Luna’s influence extends beyond her show. She’s a tastemaker in the indie community, known for her
+Influence: DJ Luna's influence extends beyond her show. She's a tastemaker in the indie community, known for her
 ability to forecast the next big thing. Her playlists are not just collections of songs but narratives that tell
 the story of a movement that defies easy categorization.
 
-Legacy: DJ Luna’s legacy is one of authenticity and exploration. She embodies the spirit of The Nerve Underground,
+Legacy: DJ Luna's legacy is one of authenticity and exploration. She embodies the spirit of The Nerve Underground,
 championing music that resonates with the soul and connects listeners to the larger tapestry of human experience.
 As the host of “The Indie Dive,” DJ Luna continues to illuminate the path for those who wander in search of
 musical enlightenment.
 
 Astral Nomad: One standout band featured on “The Indie Dive” is “Astral Nomad” from Reykjavik, Iceland. Their
-album “Echoes of the Void” was highlighted on a special segment of Luna’s show dedicated to the sounds of the
+album “Echoes of the Void” was highlighted on a special segment of Luna's show dedicated to the sounds of the
 aurora borealis. The exposure from the show led to a significant surge in recognition for the band.
 
 ## NerveTV
