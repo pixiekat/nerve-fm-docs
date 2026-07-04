@@ -16,7 +16,7 @@ three-day festival, beginning it's life in 2003 around Boston.
 
 ## Location
 
-Nerve began in 1967 in a small two-story building on Tremont Street in Boston built in the early 1900s. The building
+Nerve began in 1967 in a small two-story building on Tremont Street in Boston built in the early 1880s. The building
 itself began life as one of the earliest broadcasters in Boston without even trying. In 1930, a working class
 tinkerer named **Jack DeAngelis** was experimenting with creating a low-power transmission signal to keep his
 neighborhood entertained during the great depression, as he figured radio would be an inexpensive way for the
@@ -41,7 +41,7 @@ where Jack DeAngelis had run his Depression-era community broadcasts decades ear
 
 **The 1970s**: ***The Voice of a Generation***
 
-Supported anti-war movements and civil rights through music. Danny O'Donnovan joined as an intern in 1974, quickly
+Supported anti-war movements and civil rights through music. Danny O'Donovan joined as an intern in 1974, quickly
 becoming Sam's most trusted voice on air. His 1978 interview with Debbie Harry and Blondie — before the band had
 broken nationally — became one of the station's most celebrated moments.
 
@@ -247,7 +247,7 @@ That weekend changed his life, quite literally. Because of his detailed notes an
 to Berklee College of Music in 1970. He moved to Boston and the rest is history. In 1974, he began to intern at
 the Nerve and Sam immediate took notice. In 1975, he had his first on-air experience and in 1978, had his breakout
 moment and biggest moment of his career when he interviewed Debbie Harry and Blondie, at the very start of their
-careers. His children, Zombie Boy George and Kayla Sparkles, cary on the tradition of Nerve in their own work
+careers. His children, Zombie Boy George and Kayla Sparkles, carry on the tradition of Nerve in their own work
 at the Nerve.
 
 #### **Danielle**
@@ -377,7 +377,7 @@ it; hosted by station creator, Sam Marino.
 1970s: The Sound of Rebellion The 1970s saw "The Rock Cafe" champion the punk movement. It was a time when Boston's
 underground music scene exploded, and the show was at the forefront, showcasing bands that would go on to become
 legends. The raw energy of punk rock echoed through the airwaves, resonating with the city's rebellious spirit.
-In the 70s, Sam passed hosting reigns to Danny O'Donnovan.
+In the 70s, Sam passed hosting reigns to Danny O'Donovan.
 
 1980s: The Indie and Alternative Era As the 1980s ushered in an era of indie and alternative rock, "The Rock Cafe"
 evolved. It became the pulse of Boston's burgeoning indie scene, playing early tracks from bands that would later
