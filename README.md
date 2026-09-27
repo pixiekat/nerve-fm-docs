@@ -10,30 +10,31 @@ Websites:
 - [Xtra](https://www.nerveradio.org/xtra): Bonus content and second screen content from radio
 - [Underground](https://underground.nerveradio.org): Unfiltered, free-form, explicit channel. Online-only.
 - [Podcasts](https://www.nerveradio.org/podcasts): On-demand podcasts
-- [Big Ass Birthday Bash](https://www.nerveradio.org/big-ass-bash/): Nerve's historical and semi-annual massive
-three-day festival, beginning it's life in 2003 around Boston.
+- [Big Ass Birthday Bash](https://www.nerveradio.org/big-ass-bash/): Nerve's historical and semi-annual
+  massive three-day festival, beginning its life in 2003 around Boston.
 - NerveTV [1](https://www.nerveradio.org/tv), [2](https://www.nervetv.org)
 
 ## Location
 
-Nerve began in 1967 in a small two-story building on Tremont Street in Boston built in the early 1880s. The building
-itself began life as one of the earliest broadcasters in Boston without even trying. In 1930, a working class
-tinkerer named **Jack DeAngelis** was experimenting with creating a low-power transmission signal to keep his
-neighborhood entertained during the great depression, as he figured radio would be an inexpensive way for the
-community to be engaged and entertained. Jack had a daughter, Margaret DeAngelis, who married Frank Caruso.
-Frank and Sam's dad, Angelo, were friends and it was Frank and Margaret, who agreed to let Sam's dad carry the
-lease of the DeAngelis building which had just shed the previous tenants, the US Department of Defense.
+Nerve began in 1967 in a small two-story building on Tremont Street in Boston built in the early 1880s. The
+building itself began life as one of the earliest broadcasters in Boston without even trying. In 1930, a
+working class tinkerer named **Jack DeAngelis** was experimenting with creating a low-power transmission
+signal to keep his neighborhood entertained during the great depression, as he figured radio would be an
+inexpensive way for the community to be engaged and entertained. Jack had a daughter, Margaret DeAngelis, who
+married Frank Caruso. Frank and Sam's dad, Angelo, were friends and it was Frank and Margaret, who agreed to
+let Sam's dad carry the lease of the DeAngelis building which had just shed the previous tenants, the US
+Department of Defense.
 
 ## A Brief History: A Chronicle of Boston's Rock Radio Revolution
 
 **The 1960s**: ***Underground Beginnings***
 
-The station launched at 95.1 FM — a frequency it would hold for decades. The 1960s saw Sam hosting live performances
-and vinyl deep cuts on The Rock Cafe, giving voice to Boston's underground scene at a time when mainstream radio
-wouldn't touch it.
+The station launched at 95.1 FM — a frequency it would hold for decades. The 1960s saw Sam hosting live
+performances and vinyl deep cuts on The Rock Cafe, giving voice to Boston's underground scene at a time when
+mainstream radio wouldn't touch it.
 
-- Founded: A warm early Spring evening in May 1967 when a young Sam Marino saw the Velvet Underground at the Boston
-  Tea Party and convinced them to give an interview.
+- Founded: A warm early Spring evening in May 1967 when a young Sam Marino saw the Velvet Underground at the
+  Boston Tea Party and convinced them to give an interview.
 - Flagship Program: The Rock Cafe
 - Notable Feature: Live performances and vinyl record deep cuts
 - Cultural Impact: Became a voice for Boston's rock scene, broadcasting from the same Tremont Street building
@@ -41,18 +42,18 @@ where Jack DeAngelis had run his Depression-era community broadcasts decades ear
 
 **The 1970s**: ***The Voice of a Generation***
 
-Supported anti-war movements and civil rights through music. Danny O'Donovan joined as an intern in 1974, quickly
-becoming Sam's most trusted voice on air. His 1978 interview with Debbie Harry and Blondie — before the band had
-broken nationally — became one of the station's most celebrated moments.
+Supported anti-war movements and civil rights through music. Danny O'Donovan joined as an intern in 1974,
+quickly becoming Sam's most trusted voice on air. His 1978 interview with Debbie Harry and Blondie — before
+the band had broken nationally — became one of the station's most celebrated moments.
 
 - Social Stance: Supported anti-war movements and civil rights
 - Musical Influence: Amplified messages of peace and love through rock music.
 
 **The 1980s**: ***Expanding Horizons***
 
-The decade's defining moment came when Danny invited AIDS activists, members of the queer community, and families
-of victims on air during the height of Ronald Reagan's silence on the crisis — one of the most controversial and
-praised broadcasts in the station's history.
+The decade's defining moment came when Danny invited AIDS activists, members of the queer community, and
+families of victims on air during the height of Ronald Reagan's silence on the crisis — one of the most
+controversial and praised broadcasts in the station's history.
 
 - Genre Inclusion: Embraced punk, new wave, and indie rock
 - Cultural Hub: Became a center for counter-culture
@@ -61,9 +62,9 @@ praised broadcasts in the station's history.
 
 **The 1990s**: ***Grunge and Alternative Takeover***
 
-The grunge wave hit The Nerve hard and early. Danielle brought a new intimacy to The Rock Cafe when she took the
-helm mid-decade, while Elle D stepping into the program director role signaled a shift toward a more independent,
-artist-first editorial voice.
+The grunge wave hit The Nerve hard and early. Danielle brought a new intimacy to The Rock Cafe when she took
+the helm mid-decade, while Elle D stepping into the program director role signaled a shift toward a more
+independent, artist-first editorial voice.
 
 - Grunge Movement: Featured bands like Nirvana and Pearl Jam
 - Youth Connection: Resonated with the era's disaffected youth
@@ -75,8 +76,8 @@ artist-first editorial voice.
 **The 2000s**: ***Digital Age and Diversification***
 
 The Big Ass Birthday Bash — Nerve's semi-annual three-day festival — launched in 2003. Online streaming began,
-and Nerve Underground launched as an unfiltered, explicit, free-form online channel. Rayna joined from MuchMusic
-to lead the growing digital operation.
+and Nerve Underground launched as an unfiltered, explicit, free-form online channel. Rayna joined from
+MuchMusic to lead the growing digital operation.
 
 The Nerve expands to Springfield at 105.3 FM for greater reach in western Massachusetts.
 
@@ -87,9 +88,9 @@ The Nerve expands to Springfield at 105.3 FM for greater reach in western Massac
 
 **The 2010s**: ***A New Era of Independence***
 
-Nerve doubled down on independent and local music as streaming began eroding mainstream radio. The station became
-a pipeline for Boston bands breaking nationally, and DJ Luna joined, bringing a new queer audience to the
-Underground channel.
+Nerve doubled down on independent and local music as streaming began eroding mainstream radio. The station
+became a pipeline for Boston bands breaking nationally, and DJ Luna joined, bringing a new queer audience to
+the Underground channel.
 
 - Independent Focus: Championed local, independent artists
 - Community Support: Hosted up-and-coming Boston bands on The Rock Cafe.
@@ -103,19 +104,19 @@ a spiritual successor to MTV and MuchMusic.
 - Ongoing Legacy: Continues to broadcast The Rock Cafe, now an institution
 - Musical Tapestry: Reflects musical evolution and societal changes.
 
-The Nerve 95.1 FM has been a steadfast companion to those who find solace, inspiration, and a sense of revolution
-in music. From its pirate radio roots to its status as a cornerstone of Boston's music culture, The Nerve continues
-to throb with the lifeblood of rock and roll.
+The Nerve 95.1 FM has been a steadfast companion to those who find solace, inspiration, and a sense of
+revolution in music. From its pirate radio roots to its status as a cornerstone of Boston's music culture, The
+Nerve continues to throb with the lifeblood of rock and roll.
 
 ## The Wall
 
-A legendary wall sitting in the studio since 1967. It's notoriaty began on that May 1967 evening when Lou Reed
+A legendary wall sitting in the studio since 1967. Its notoriety began on that May 1967 evening when Lou Reed
 absent-mindedly scratched his name on the wall in an act of both boredom and defiance, Sam Marino saw it as an
-inspiration. Since that night, every band, DJ, and other musician that have come to the studio, have been given
-the chance to write, carve, or otherwise sign their name, doodle, or make their presence felt in any way they
-saw fit. From Robert Plant to Jimmy Page to John Lennon and Yoko Ono to Boy George to Billie Joe Armstrong all
-the way to Olivia Rodrigo, Billie Eilish, and Harry Styles - anyone who has set foot in the studio has made
-their presence known on the wall.
+inspiration. Since that night, every band, DJ, and other musician that have come to the studio, have been
+given the chance to write, carve, or otherwise sign their name, doodle, or make their presence felt in any way
+they saw fit. From Robert Plant to Jimmy Page to John Lennon and Yoko Ono to Boy George to Billie Joe
+Armstrong all the way to Olivia Rodrigo, Billie Eilish, and Harry Styles - anyone who has set foot in the
+studio has made their presence known on the wall.
 
 ## Daily Schedule
 
@@ -167,7 +168,7 @@ their presence known on the wall.
 
 **00:00-03:00**: Lizzy “The Lizard” Grant
 
-**06:00-10:00**: Sunday Morning Serenade, accoustic, spoken word, and mellow rock to start your day.
+**06:00-10:00**: Sunday Morning Serenade, acoustic, spoken word, and mellow rock to start your day.
 
 **10:00-12:00**: The Ongoing History of New Music
 
@@ -179,8 +180,8 @@ their presence known on the wall.
 
 **20:00-21:00**: Sunday Chart Show (Rayna)
 
-**21:00-23:00**: Static & Stardust (Vixen & Spike): Step inside the world of industrial goth raves and intimate
-advice.
+**21:00-23:00**: Static & Stardust (Vixen & Spike): Step inside the world of industrial goth raves and
+intimate advice.
 
 **23:00-24:00**: Bay State Rocks
 
@@ -202,8 +203,8 @@ advice.
 
 **15:00-18:00**: Rush Hour Rizz with JJ & Max
 
-**18:00-20:00**: riot grrl rave; Morgana dives into the world of queer, feminist, intersectional, and black punk,
-metal, and riot grrl music. Unapologetically black, queer, and feminist.
+**18:00-20:00**: riot grrl rave; Morgana dives into the world of queer, feminist, intersectional, and black
+punk, metal, and riot grrl music. Unapologetically black, queer, and feminist.
 
 **20:00-00:00**: The Night Shift with Vixen & Spike
 
@@ -219,11 +220,11 @@ metal, and riot grrl music. Unapologetically black, queer, and feminist.
 
 **12:00-17:00**: The Vinyl Countdown with Mike & Chris
 
-**17:00-19:00**: Lizzie "The Lizard" Grant
+**17:00-19:00**: Lizzy "The Lizard" Grant
 
 **19:00-21:00**: Witchcore; dark ambiance and experimental brews with Tawny
 
-**21:00-24:00**: Rayna's Dreamscapes; lo-fi beats and dreamy beats
+**21:00-24:00**: Rayna's Dreamscapes; lo-fi and dreamy beats
 
 ## People
 
@@ -231,131 +232,136 @@ metal, and riot grrl music. Unapologetically black, queer, and feminist.
 
 #### **Sam Marino**
 
-The original creator of the Nerve, since 1967. Though he turned over duties to Danny and day to
-day operations in the late 80's, he still occaisionally shows up on air for Coffee and Cassettes to do a free form
-styled show with his friends. A mainstay in Boston radio since the 60s, he showed up at BCN on their final broadcast
-to support everyone and ended up being pulled on air to do an impromptu four hour show with Peter Wolf, Charles Laquidara,
-and Sam Kopper, reminscing about the last 50 years in Boston radio.
+The original creator of the Nerve, since 1967. Though he turned over duties to Danny and day to day operations
+in the late 80's, he still occasionally shows up on air for Coffee and Cassettes to do a free form styled show
+with his friends. A mainstay in Boston radio since the 60s, he showed up at BCN on their final broadcast to
+support everyone and ended up being pulled on air to do an impromptu four hour show with Peter Wolf, Charles
+Laquidara, and Sam Kopper, reminiscing about the last 50 years in Boston radio.
 
 #### **Danny O'Donovan**
 
-Danny has grew up loving music. As a 15 year old boy in Worcester, he can remember the
-moment when he listened to Sam broadcasting the first time on the Nerve that May 1967 evening, as he interviewed
-Velvet Underground. It was that moment that he knew he wanted to be on the radio. As a 17 year old, he hitchhiked
-from Worcester to Woodstock, with nothing on him but a backpack and a notepad in order to record his entire experience.
-That weekend changed his life, quite literally. Because of his detailed notes and recollection, he was invited
-to Berklee College of Music in 1970. He moved to Boston and the rest is history. In 1974, he began to intern at
-the Nerve and Sam immediate took notice. In 1975, he had his first on-air experience and in 1978, had his breakout
-moment and biggest moment of his career when he interviewed Debbie Harry and Blondie, at the very start of their
-careers. His children, Zombie Boy George and Kayla Sparkles, carry on the tradition of Nerve in their own work
-at the Nerve.
+Danny grew up loving music. As a 15 year old boy in Worcester, he can remember the moment when he listened to
+Sam broadcasting the first time on the Nerve that May 1967 evening, as he interviewed Velvet Underground. It
+was that moment that he knew he wanted to be on the radio. As a 17 year old, he hitchhiked from Worcester to
+Woodstock, with nothing on him but a backpack and a notepad in order to record his entire experience. That
+weekend changed his life, quite literally. Because of his detailed notes and recollection, he was invited to
+Berklee College of Music in 1970. He moved to Boston and the rest is history. In 1974, he began to intern at
+the Nerve and Sam immediately took notice. In 1975, he had his first on-air experience and in 1978, had his
+breakout moment and biggest moment of his career when he interviewed Debbie Harry and Blondie, at the very
+start of their careers. His children, Zombie Boy George and Kayla Sparkles, carry on the tradition of Nerve in
+their own work at the Nerve.
 
 #### **Danielle**
 
-The current propriator of the Rock Cafe since 1995. A music journalist and cellist from a young
-age, she landed at The Nerve as not just one of the youngest DJs but also the youngest enrollee at Berklee
-College of Music, with a music pedigree that would put most to shame. In her trademark overalls, Sunny Day Real
-Estate t-shirt, a sunflower in her hair, and daisy necklace (a gift from her cellist wife), her interviews provide
-a sense of intimacy and warmth that make most who enter the Rock Cafe feel comfortable and ready to spill their
+The current proprietor of the Rock Cafe since 1995. A music journalist and cellist from a young age, she
+landed at The Nerve as not just one of the youngest DJs but also the youngest enrollee at Berklee College of
+Music, with a music pedigree that would put most to shame. In her trademark overalls, Sunny Day Real Estate
+t-shirt, a sunflower in her hair, and daisy necklace (a gift from her cellist wife), her interviews provide a
+sense of intimacy and warmth that make most who enter the Rock Cafe feel comfortable and ready to spill their
 most intimate of stories with the world.
 
 #### **DJ Phantom**
 
-In the shadowy hours when the city sleeps, DJ Phantom emerges as the enigmatic voice of The Nerve
-Underground. Known for their elusive presence and a penchant for the obscure, DJ Phantom is a figure shrouded in
-mystery, captivating listeners with a blend of rare tracks and eclectic sounds that defy the mainstream.
+In the shadowy hours when the city sleeps, DJ Phantom emerges as the enigmatic voice of The Nerve Underground.
+Known for their elusive presence and a penchant for the obscure, DJ Phantom is a figure shrouded in mystery,
+captivating listeners with a blend of rare tracks and eclectic sounds that defy the mainstream.
 
-**Background**: DJ Phantom's origins are as mysterious as the persona they've cultivated. Rumors swirl about a past life
-as a record store owner who amassed an unparalleled collection of vinyl, or as a touring musician who left the stage
-for the airwaves. The truth remains a closely guarded secret, known only to DJ Phantom.
+**Background**: DJ Phantom's origins are as mysterious as the persona they've cultivated. Rumors swirl about a
+past life as a record store owner who amassed an unparalleled collection of vinyl, or as a touring musician
+who left the stage for the airwaves. The truth remains a closely guarded secret, known only to DJ Phantom.
 
-The Insomniac Sessions: As the host of “The Insomniac Sessions,” DJ Phantom weaves a nocturnal tapestry of sound, from
-forgotten classics to avant-garde indie. Their show is a haven for night owls and music aficionados seeking solace in
-the solitude of the late hours.
+The Insomniac Sessions: As the host of “The Insomniac Sessions,” DJ Phantom weaves a nocturnal tapestry of
+sound, from forgotten classics to avant-garde indie. Their show is a haven for night owls and music
+aficionados seeking solace in the solitude of the late hours.
 
-**Influence**: DJ Phantom's influence extends beyond their radio show. They are a tastemaker, unearthing hidden gems and
-championing underground artists. Their playlists are a siren call to those who wander off the beaten path in search of
-sonic adventure.
+**Influence**: DJ Phantom's influence extends beyond their radio show. They are a tastemaker, unearthing
+hidden gems and championing underground artists. Their playlists are a siren call to those who wander off the
+beaten path in search of sonic adventure.
 
-**Legacy**: With a voice that's both comforting and cryptic, DJ Phantom has become a legend of The Nerve Underground.
-They embody the station's spirit of independence and its commitment to music that challenges, inspires, and transcends.
+**Legacy**: With a voice that's both comforting and cryptic, DJ Phantom has become a legend of The Nerve
+Underground. They embody the station's spirit of independence and its commitment to music that challenges,
+inspires, and transcends.
 
 #### **DJ Luna** &mdash; ***The Indie Oracle of The Nerve Underground***
 
-DJ Luna is the celestial curator of indie music on The Nerve Underground. Known for her nocturnal show, she guides
-listeners through the constellations of underground sound. With a voice as soothing as the moon's glow and a playlist
-as diverse as the night sky, she has become a beacon for those seeking solace in the indie music scene. She currently
-runs the Indie Dive with producer Kayla Sparkles, who is also her in real life partner.
+DJ Luna is the celestial curator of indie music on The Nerve Underground. Known for her nocturnal show, she
+guides listeners through the constellations of underground sound. With a voice as soothing as the moon's glow
+and a playlist as diverse as the night sky, she has become a beacon for those seeking solace in the indie
+music scene. She currently runs the Indie Dive with producer Kayla Sparkles, who is also her in real life
+partner.
 
-**Background**: Luna's journey into radio was written in the stars. A former music blogger and record store aficionado,
-her passion for discovering and sharing obscure tracks led her to The Nerve Underground. Her show, “The Indie
-Dive,” quickly became a sanctuary for indie enthusiasts and night owls alike. Joining the Nerve in the 2010's,
-she remains one of the newest DJs but still commands a large following of devoted listeners. Her unabashed queer
-and transness, makes her station a haven and safe space for marginalized and queer listeners across the state
-and world.
+**Background**: Luna's journey into radio was written in the stars. A former music blogger and record store
+aficionado, her passion for discovering and sharing obscure tracks led her to The Nerve Underground. Her show,
+“The Indie Dive,” quickly became a sanctuary for indie enthusiasts and night owls alike. Joining the Nerve in
+the 2010's, she remains one of the newest DJs but still commands a large following of devoted listeners. Her
+unabashed queer and transness makes her show a haven and safe space for marginalized and queer listeners
+across the state and world.
 
-**The Indie Dive**: Under Luna's guidance, “The Indie Dive” explores the depths of the indie universe, from shoegaze
-to post-rock, and everything in between. Her show is a mosaic of sound, featuring live sessions, deep cuts, and
-interviews with artists on the cusp of breaking into the mainstream.
+**The Indie Dive**: Under Luna's guidance, “The Indie Dive” explores the depths of the indie universe, from
+shoegaze to post-rock, and everything in between. Her show is a mosaic of sound, featuring live sessions, deep
+cuts, and interviews with artists on the cusp of breaking into the mainstream.
 
-**Influence**: DJ Luna's influence extends beyond her show. She's a tastemaker in the indie community, known for her
-ability to forecast the next big thing. Her playlists are not just collections of songs but narratives that tell
-the story of a movement that defies easy categorization.
+**Influence**: DJ Luna's influence extends beyond her show. She's a tastemaker in the indie community, known
+for her ability to forecast the next big thing. Her playlists are not just collections of songs but narratives
+that tell the story of a movement that defies easy categorization.
 
-**Legacy**: DJ Luna's legacy is one of authenticity and exploration. She embodies the spirit of The Nerve Underground,
-championing music that resonates with the soul and connects listeners to the larger tapestry of human experience.
-As the host of “The Indie Dive,” DJ Luna continues to illuminate the path for those who wander in search of
-musical enlightenment.
+**Legacy**: DJ Luna's legacy is one of authenticity and exploration. She embodies the spirit of The Nerve
+Underground, championing music that resonates with the soul and connects listeners to the larger tapestry of
+human experience. As the host of “The Indie Dive,” DJ Luna continues to illuminate the path for those who
+wander in search of musical enlightenment.
 
-**Astral Nomad**: One standout band featured on “The Indie Dive” is “Astral Nomad” from Reykjavik, Iceland. Their
-album “Echoes of the Void” was highlighted on a special segment of Luna's show dedicated to the sounds of the
-aurora borealis. The exposure from the show led to a significant surge in recognition for the band.
+**Astral Nomad**: One standout band featured on “The Indie Dive” is “Astral Nomad” from Reykjavik, Iceland.
+Their album “Echoes of the Void” was highlighted on a special segment of Luna's show dedicated to the sounds
+of the aurora borealis. The exposure from the show led to a significant surge in recognition for the band.
 
 #### **Vixen & Spike** &mdash; ***The Androgynous Icons of The Nerve Underground***
 
-Vixen and Spike, the enigmatic duo of The Nerve Underground, are the embodiment of the station's edgy and rebellious
-spirit. With their androgynous allure and a penchant for the unconventional, they've become icons of the alternative
-music scene.
+Vixen and Spike, the enigmatic duo of The Nerve Underground, are the embodiment of the station's edgy and
+rebellious spirit. With their androgynous allure and a penchant for the unconventional, they've become icons
+of the alternative music scene.
 
 Vixen, known for her leather jacket and commanding presence, brings a blend of punk ethos and intellectual
-depth to the airwaves. Her background as a music journalist and activist gives her a unique perspective that challenges
-listeners to think critically about the world around them.
+depth to the airwaves. Her background as a music journalist and activist gives her a unique perspective that
+challenges listeners to think critically about the world around them.
 
-Spike, with his spiked collar and devil-may-care attitude, is the quintessential rock 'n' roll rebel. A former band
-frontman, his transition to radio was fueled by a desire to connect with a wider audience and share the raw power of music.
+Spike, with his spiked collar and devil-may-care attitude, is the quintessential rock 'n' roll rebel. A former
+band frontman, his transition to radio was fueled by a desire to connect with a wider audience and share the
+raw power of music.
 
-**The Night Shift**: Together, they host “The Night Shift,” a show that delves into the darker corners of rock music and
-culture. Their chemistry is palpable, as they trade barbs, share stories, and spin tracks that range from gothic rock
-to industrial metal.
+**The Night Shift**: Together, they host “The Night Shift,” a show that delves into the darker corners of rock
+music and culture. Their chemistry is palpable, as they trade barbs, share stories, and spin tracks that range
+from gothic rock to industrial metal.
 
-**Influence**: Vixen & Spike are more than just hosts; they are influencers within the music community. They champion
-underground bands and create a platform for genres often overlooked by mainstream media. Their interviews are legendary,
-often revealing the most intimate details of an artist's creative process.
+**Influence**: Vixen & Spike are more than just hosts; they are influencers within the music community. They
+champion underground bands and create a platform for genres often overlooked by mainstream media. Their
+interviews are legendary, often revealing the most intimate details of an artist's creative process.
 
-**Legacy**: Their legacy is one of authenticity and audacity. Vixen & Spike have inspired a generation of listeners to
-embrace their individuality and to question the status quo. As the voices of “The Nerve Underground,” they continue to
-push the boundaries of what radio can be, proving that music is not just sound—it's a revolution.
+**Legacy**: Their legacy is one of authenticity and audacity. Vixen & Spike have inspired a generation of
+listeners to embrace their individuality and to question the status quo. As the voices of “The Nerve
+Underground,” they continue to push the boundaries of what radio can be, proving that music is not just
+sound—it's a revolution.
 
-While Vixen & Spike are known for their electrifying on-air chemistry, there was one particularly memorable live show
-where tensions flared. The incident occurred during a heated debate over the evolution of rock music. Vixen, ever the
-punk purist, argued for the genre's return to its rebellious roots, while Spike, with his love for the theatrical
-elements of glam rock, defended the genre's experimental progressions.
+While Vixen & Spike are known for their electrifying on-air chemistry, there was one particularly memorable
+live show where tensions flared. The incident occurred during a heated debate over the evolution of rock
+music. Vixen, ever the punk purist, argued for the genre's return to its rebellious roots, while Spike, with
+his love for the theatrical elements of glam rock, defended the genre's experimental progressions.
 
-The discussion escalated, voices rose, and for a moment, it seemed as if the duo would reach an impasse. However, true
-to their professional ethos and the spirit of “The Nerve Underground,” they turned the clash into a moment of radio
-gold. They invited listeners to weigh in, transforming their disagreement into an engaging and inclusive debate that
-resonated with their audience.
+The discussion escalated, voices rose, and for a moment, it seemed as if the duo would reach an impasse.
+However, true to their professional ethos and the spirit of “The Nerve Underground,” they turned the clash
+into a moment of radio gold. They invited listeners to weigh in, transforming their disagreement into an
+engaging and inclusive debate that resonated with their audience.
 
-This clash became a testament to their dynamic as co-hosts: passionate about music, unafraid of confrontation, and
-always able to find harmony in the discord. It was a moment that solidified their status as icons of The Nerve
-Underground, embodying the station's commitment to raw, unscripted, and authentic broadcasting.
+This clash became a testament to their dynamic as co-hosts: passionate about music, unafraid of confrontation,
+and always able to find harmony in the discord. It was a moment that solidified their status as icons of The
+Nerve Underground, embodying the station's commitment to raw, unscripted, and authentic broadcasting.
 
 #### Rayna
 
-Rayna came to the Nerve in the early 2000s. A veteran of both music and television, she began her career in Canada at
-CBC Kids as a child actor before interning at Edge 102 and The Score before becoming an on-air presence at MuchMusic.
-She was about to continue her career in the States at MTV, but a last minute interception by Danny steered her to the
-direction of the Nerve, where she remains today as creative director for Nerve Digital.
+Rayna came to the Nerve in the early 2000s. A veteran of both music and television, she began her career in
+Canada at CBC Kids as a child actor before interning at Edge 102 and The Score before becoming an on-air
+presence at MuchMusic. She was about to continue her career in the States at MTV, but a last minute
+interception by Danny steered her to the direction of the Nerve, where she remains today as creative director
+for Nerve Digital.
 
 ## The Rock Cafe
 
@@ -364,58 +370,61 @@ direction of the Nerve, where she remains today as creative director for Nerve D
 Since its inception in the 1960s, "The Rock Cafe" has been more than just a radio show; it's been a cultural
 institution deeply intertwined with the city of Boston. As a beacon of the counter culture movement, the show
 provided a platform for the voices and music that mainstream media often overlooked or ignored. From the
-beginning of Nerve's origins, it has been a stable of the station; originally hosted by Station creator Sam,
-then by Danny, and now to the current host Danielle, it has been consistantly the destination for musicians
+beginning of Nerve's origins, it has been a staple of the station; originally hosted by Station creator Sam,
+then by Danny, and now to the current host Danielle, it has been consistently the destination for musicians
 touring the area.
 
 1960s: The Birth of a Revolution In the 1960s, "The Rock Cafe" began as a daring experiment. It quickly became
 a sanctuary for the anti-establishment wave sweeping through Boston. The show featured artists who were the
-soundtrack to the civil rights movement, anti-war protests, and the sexual revolution, solidifying its place in
-the heart of Boston's counter culture. From the start of Nerve in May 1967, The Rock Cafe has been a part of
-it; hosted by station creator, Sam Marino.
+soundtrack to the civil rights movement, anti-war protests, and the sexual revolution, solidifying its place
+in the heart of Boston's counter culture. From the start of Nerve in May 1967, The Rock Cafe has been a part
+of it; hosted by station creator, Sam Marino.
 
-1970s: The Sound of Rebellion The 1970s saw "The Rock Cafe" champion the punk movement. It was a time when Boston's
-underground music scene exploded, and the show was at the forefront, showcasing bands that would go on to become
-legends. The raw energy of punk rock echoed through the airwaves, resonating with the city's rebellious spirit.
-In the 70s, Sam passed hosting reigns to Danny O'Donovan.
+1970s: The Sound of Rebellion The 1970s saw "The Rock Cafe" champion the punk movement. It was a time when
+Boston's underground music scene exploded, and the show was at the forefront, showcasing bands that would go
+on to become legends. The raw energy of punk rock echoed through the airwaves, resonating with the city's
+rebellious spirit. In the 70s, Sam passed hosting reins to Danny O'Donovan.
 
-1980s: The Indie and Alternative Era As the 1980s ushered in an era of indie and alternative rock, "The Rock Cafe"
-evolved. It became the pulse of Boston's burgeoning indie scene, playing early tracks from bands that would later
-dominate the airwaves. The show was instrumental in bringing the indie subculture into the mainstream consciousness.
+1980s: The Indie and Alternative Era As the 1980s ushered in an era of indie and alternative rock, "The Rock
+Cafe" evolved. It became the pulse of Boston's burgeoning indie scene, playing early tracks from bands that
+would later dominate the airwaves. The show was instrumental in bringing the indie subculture into the
+mainstream consciousness.
 
-1990s: Grunge and Beyond The grunge movement found a home on "The Rock Cafe" in the 1990s. The show captured the
-angst and disillusionment of a generation, while also exploring the rise of electronic and hip-hop influences
-that were beginning to permeate the rock genre. In the 90s, Danny passed the hosting duties to the current host,
-Danielle.
+1990s: Grunge and Beyond The grunge movement found a home on "The Rock Cafe" in the 1990s. The show captured
+the angst and disillusionment of a generation, while also exploring the rise of electronic and hip-hop
+influences that were beginning to permeate the rock genre. In the 90s, Danny passed the hosting duties to the
+current host, Danielle.
 
-2000s to Present: A New Millennium of Rock Entering the new millennium, "The Rock Cafe" continued to push boundaries.
-It embraced the diverse sounds of modern rock, from post-punk revival to the latest indie darlings. The show remained
-a staple of Boston's music scene, often featuring live sessions that became the stuff of local legend.
+2000s to Present: A New Millennium of Rock Entering the new millennium, "The Rock Cafe" continued to push
+boundaries. It embraced the diverse sounds of modern rock, from post-punk revival to the latest indie
+darlings. The show remained a staple of Boston's music scene, often featuring live sessions that became the
+stuff of local legend.
 
-Throughout the decades, "The Rock Cafe" has been a mirror to the shifting tides of Boston's counter culture. It's
-been a platform for political discourse, social commentary, and, most importantly, a unifying force for the community.
-The show's deep links to Boston are evident in its unwavering support for local artists and its commitment to
-music that challenges the status quo.
+Throughout the decades, "The Rock Cafe" has been a mirror to the shifting tides of Boston's counter culture.
+It's been a platform for political discourse, social commentary, and, most importantly, a unifying force for
+the community. The show's deep links to Boston are evident in its unwavering support for local artists and its
+commitment to music that challenges the status quo.
 
 As "The Rock Cafe" continues to broadcast, it carries with it the legacy of the past while constantly looking
 forward to the future of rock music and counterculture.
 
 ## NerveTV
 
-In 2020, Nerve soft launched a new digital media portal on their website called NerveTV. Originally, a place for
-exclusive clips and content from the radio station, it has quickly grown to be a spiritual successor to channels
-like MTV and MuchMusic. Helmed by Rayna, the current program directory, she took a small studio apartment in the
-basement of the DeAngelus building and turned it into a scrappy, nostalgic video music clubhouse. The studio is
-small and intimate; enough for a green screen, VJ, and occasional musical guests but it works.
+In 2020, Nerve soft launched a new digital media portal on their website called NerveTV. Originally, a place
+for exclusive clips and content from the radio station, it has quickly grown to be a spiritual successor to
+channels like MTV and MuchMusic. Helmed by Rayna, the current program director, she took a small studio
+apartment in the basement of the DeAngelis building and turned it into a scrappy, nostalgic video music
+clubhouse. The studio is small and intimate; enough for a green screen, VJ, and occasional musical guests but
+it works.
 
 ### Schedule
 
-The schedule is currently in beta, as NerveTV is still in the experimental stages but the following can be expected
-on the air.
+The schedule is currently in beta, as NerveTV is still in the experimental stages but the following can be
+expected on the air.
 
-**The Chart Show**: Rayna hosts a weekly look at the top songs, artists, albums, and culture in all things music.
-Also heard on Nerve FM, in audio form. The NerveTV form is two hours and covers everything in music - news, concerts,
-albums, videos - for the week.
+**The Chart Show**: Rayna hosts a weekly look at the top songs, artists, albums, and culture in all things
+music. Also heard on Nerve FM, in audio form. The NerveTV form is two hours and covers everything in music -
+news, concerts, albums, videos - for the week.
 
-**Live and Loud**: Saturday nights is the time to get loud with the best in metal; hosted by VJ Nikki and special
-musical guests. Live, loud, uncensored hard rock and metal for four hours.
+**Live and Loud**: Saturday nights is the time to get loud with the best in metal; hosted by VJ Nikki and
+special musical guests. Live, loud, uncensored hard rock and metal for four hours.
