@@ -62,6 +62,22 @@ controversial and praised broadcasts in the station's history.
 
 **The 1990s**: ***Grunge and Alternative Takeover***
 
+The decade opened with a shake-up in the mornings. As Mike & Chris moved from their 1980s morning slot to
+afternoons, Danny set out to find a new morning team with the same energy. He brought in Jake & Robbie, a
+shock jock duo well known in Detroit radio, and the station hyped them hard all through the spring of 1990.
+They lasted the summer and were gone by winter. Mike & Chris had always aimed their humor up, at the powerful;
+Jake & Robbie punched down, at the very communities Danny had given a microphone to in the 80s, and they never
+meshed with the station's philosophy.
+
+With the morning slot suddenly empty, Travis, a young board tech who had only started at the station as an
+intern that year, settled in behind the microphone and held mornings together for the next year. His
+no-frills mix of new releases became the first version of Breaking Music, long before it was trimmed down to
+the short bridge that now leads into the morning show.
+
+This time Danny didn't go it alone. He and Mike & Chris searched together and eventually found Ethan & Jared,
+who were promoted and hyped properly before their first show in early 1992. Like Mike & Chris before them,
+they punched up, not down, and they have held the morning slot ever since.
+
 The grunge wave hit The Nerve hard and early. Danielle brought a new intimacy to The Rock Cafe when she took
 the helm mid-decade, while Elle D stepping into the program director role signaled a shift toward a more
 independent, artist-first editorial voice.
@@ -69,9 +85,13 @@ independent, artist-first editorial voice.
 - Grunge Movement: Featured bands like Nirvana and Pearl Jam
 - Youth Connection: Resonated with the era's disaffected youth
 - Historical Significance: Cemented its place in rock history.
+- Mike & Chris move from mornings to afternoons.
+- Jake & Robbie's short-lived morning show (spring to winter 1990).
+- Travis starts as an intern, moves to board tech and all around dogsbody, then holds the morning slot for a
+  year; the original Breaking Music is born.
+- Ethan & Jared take over mornings (1992).
 - Danielle takes over the Rock Cafe.
 - Elle D becomes program director.
-- Travis starts as an intern, moves to board tech and all around dogsbody.
 
 **The 2000s**: ***Digital Age and Diversification***
 
