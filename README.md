@@ -252,11 +252,11 @@ punk, metal, and riot grrl music. Unapologetically black, queer, and feminist.
 
 #### **Sam Marino**
 
-The original creator of the Nerve, since 1967. Though he turned over duties to Danny and day to day operations
-in the late 80's, he still occasionally shows up on air for Coffee and Cassettes to do a free form styled show
-with his friends. A mainstay in Boston radio since the 60s, he showed up at BCN on their final broadcast to
-support everyone and ended up being pulled on air to do an impromptu four hour show with Peter Wolf, Charles
-Laquidara, and Sam Kopper, reminiscing about the last 50 years in Boston radio.
+The original creator of the Nerve, since 1967. Though he turned over duties to Danny and day to
+day operations in the late 80's, he still occaisionally shows up on air for Coffee and Cassettes to do a free
+form styled show with his friends. A mainstay in Boston radio since the 60s, he showed up at BCN on their final
+broadcast to support everyone and ended up being pulled on air to do an impromptu four hour show with Peter Wolf,
+Charles Laquidara, and Sam Kopper, reminscing about the last 50 years in Boston radio.
 
 #### **Danny O'Donovan**
 
@@ -282,21 +282,21 @@ most intimate of stories with the world.
 
 #### **DJ Phantom**
 
-In the shadowy hours when the city sleeps, DJ Phantom emerges as the enigmatic voice of The Nerve Underground.
-Known for their elusive presence and a penchant for the obscure, DJ Phantom is a figure shrouded in mystery,
-captivating listeners with a blend of rare tracks and eclectic sounds that defy the mainstream.
+In the shadowy hours when the city sleeps, DJ Phantom emerges as the enigmatic voice of The Nerve
+Underground. Known for their elusive presence and a penchant for the obscure, DJ Phantom is a figure shrouded
+in mystery, captivating listeners with a blend of rare tracks and eclectic sounds that defy the mainstream.
 
 **Background**: DJ Phantom's origins are as mysterious as the persona they've cultivated. Rumors swirl about a
-past life as a record store owner who amassed an unparalleled collection of vinyl, or as a touring musician
-who left the stage for the airwaves. The truth remains a closely guarded secret, known only to DJ Phantom.
+past life as a record store owner who amassed an unparalleled collection of vinyl, or as a touring musician who
+left the stage for the airwaves. The truth remains a closely guarded secret, known only to DJ Phantom.
 
-The Insomniac Sessions: As the host of “The Insomniac Sessions,” DJ Phantom weaves a nocturnal tapestry of
-sound, from forgotten classics to avant-garde indie. Their show is a haven for night owls and music
-aficionados seeking solace in the solitude of the late hours.
+The Insomniac Sessions: As the host of “The Insomniac Sessions,” DJ Phantom weaves a nocturnal tapestry of sound,
+from forgotten classics to avant-garde indie. Their show is a haven for night owls and music aficionados seeking
+solace in the solitude of the late hours.
 
-**Influence**: DJ Phantom's influence extends beyond their radio show. They are a tastemaker, unearthing
-hidden gems and championing underground artists. Their playlists are a siren call to those who wander off the
-beaten path in search of sonic adventure.
+**Influence**: DJ Phantom's influence extends beyond their radio show. They are a tastemaker, unearthing hidden
+gems and championing underground artists. Their playlists are a siren call to those who wander off the beaten
+path in search of sonic adventure.
 
 **Legacy**: With a voice that's both comforting and cryptic, DJ Phantom has become a legend of The Nerve
 Underground. They embody the station's spirit of independence and its commitment to music that challenges,
