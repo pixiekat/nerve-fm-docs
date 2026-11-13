@@ -4,6 +4,9 @@
 > **The Nerve is fictional.** This is part of an original, creative fictional broadcasting universe. The
 > station, its people, websites and history are invented. Real artists, venues, stations and events appear
 > only as part of the fiction.
+>
+> It is a constantly evolving timeline as my creative process continues. Historical rules are ***bend, don't
+> break***. Events in the timeline can slightly alter real-life events, as long as they’re not too drastic.
 
 The Nerve: *The Rock Radio Revolution*
 
