@@ -144,6 +144,14 @@ since.
 The grunge wave hit The Nerve hard and early. Danielle brought a new intimacy to The Rock Cafe when she took
 the helm mid-decade.
 
+The decade closed with the biggest fight in the station's history. After the Telecommunications Act of 1996
+lifted the limits on how many stations one company could own, radio across the country was swallowed up by
+media conglomerates, and by the end of the decade one of them came for The Nerve. The takeover attempt was
+everything the station had stood against since 1967, and Ethan & Jared were built for exactly this kind of
+fight. They took the suits on, on air, every morning, and it pushed them further than they had ever gone. Out
+of that fight came the idea for the Underground: a channel that no corporate owner, advertiser, or regulator
+could filter.
+
 - Grunge Movement: Featured bands like Nirvana and Pearl Jam
 - Youth Connection: Resonated with the era's disaffected youth
 - Historical Significance: Cemented its place in rock history.
@@ -154,11 +162,14 @@ the helm mid-decade.
   Music is born.
 - Ethan & Jared take over mornings (1992).
 - Danielle takes over the Rock Cafe.
+- A corporate takeover attempt (late 1990s); Ethan & Jared lead the fight on air, and the idea for the
+  Underground is born.
 
 **The 2000s**: ***Digital Age and Diversification***
 
 The Big Ass Birthday Bash — Nerve's semi-annual three-day festival — launched in 2003. Online streaming began,
-and Nerve Underground launched as an unfiltered, explicit, free-form online channel. Rayna joined from
+and Nerve Underground, born out of the takeover fight, launched as an unfiltered, explicit, free-form online
+channel. Rayna joined from
 MuchMusic to lead the growing digital operation.
 
 The Nerve expands to Springfield at 105.3 FM for greater reach in western Massachusetts.
