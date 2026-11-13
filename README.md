@@ -111,19 +111,22 @@ controversial and praised broadcasts in the station's history.
 - Genre Inclusion: Embraced punk, new wave, and indie rock
 - Cultural Hub: Became a center for counter-culture
 - Station's Motto: “The Rock Radio Revolution”
-- Danny O'Donovan takes over the Rock Cafe.
+- Danny O'Donovan takes over the Rock Cafe (around 1979–80).
+- Travis starts as an intern (1988).
+- Travis finds Jack DeAngelis's discs, notebooks, and diagrams behind the basement drywall (1989).
 
 **The 1990s**: ***Grunge and Alternative Takeover***
 
-The decade opened with a shake-up in the mornings. As Mike & Chris moved from their 1980s morning slot to
+The decade opened with a shake-up. Elle D stepped into the program director role, signaling a shift toward
+a more independent, artist-first editorial voice. As Mike & Chris moved from their 1980s morning slot to
 afternoons, Danny set out to find a new morning team with the same energy. He brought in Jake & Robbie, a
 shock jock duo well known in Detroit radio, and the station hyped them hard all through the spring of 1990.
 They lasted the summer and were gone by winter. Mike & Chris had always aimed their humor up, at the powerful;
 Jake & Robbie punched down, at the very communities Danny had given a microphone to in the 80s, and they never
 meshed with the station's philosophy.
 
-With the morning slot suddenly empty, Travis, a young board tech who had only started at the station as an
-intern that year, settled in behind the microphone and held mornings together for the next year. His
+With the morning slot suddenly empty, Travis, a young board tech who had started at the station as an
+intern in 1988, settled in behind the microphone and held mornings together for the next year. His
 no-frills mix of new releases became the first version of Breaking Music, long before it was trimmed down to
 the short bridge that now leads into the morning show.
 
@@ -132,19 +135,18 @@ who were promoted and hyped properly before their first show in early 1992. Like
 they punched up, not down, and they have held the morning slot ever since.
 
 The grunge wave hit The Nerve hard and early. Danielle brought a new intimacy to The Rock Cafe when she took
-the helm mid-decade, while Elle D stepping into the program director role signaled a shift toward a more
-independent, artist-first editorial voice.
+the helm mid-decade.
 
 - Grunge Movement: Featured bands like Nirvana and Pearl Jam
 - Youth Connection: Resonated with the era's disaffected youth
 - Historical Significance: Cemented its place in rock history.
+- Elle D becomes program director.
 - Mike & Chris move from mornings to afternoons.
 - Jake & Robbie's short-lived morning show (spring to winter 1990).
-- Travis starts as an intern, moves to board tech and all around dogsbody, then holds the morning slot for a
-  year; the original Breaking Music is born.
+- Travis, now board tech and all around dogsbody, holds the morning slot for a year; the original Breaking
+  Music is born.
 - Ethan & Jared take over mornings (1992).
 - Danielle takes over the Rock Cafe.
-- Elle D becomes program director.
 
 **The 2000s**: ***Digital Age and Diversification***
 
@@ -464,7 +466,7 @@ of it; hosted by station creator, Sam Marino.
 1970s: The Sound of Rebellion The 1970s saw "The Rock Cafe" champion the punk movement. It was a time when
 Boston's underground music scene exploded, and the show was at the forefront, showcasing bands that would go
 on to become legends. The raw energy of punk rock echoed through the airwaves, resonating with the city's
-rebellious spirit. In the 70s, Sam passed hosting reins to Danny O'Donovan.
+rebellious spirit. At the turn of the 80s, Sam passed hosting reins to Danny O'Donovan.
 
 1980s: The Indie and Alternative Era As the 1980s ushered in an era of indie and alternative rock, "The Rock
 Cafe" evolved. It became the pulse of Boston's burgeoning indie scene, playing early tracks from bands that
