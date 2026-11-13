@@ -2,11 +2,17 @@
 
 > [!NOTE]
 > **The Nerve is fictional.** This is part of an original, creative fictional broadcasting universe. The
-> station, its people, websites and history are invented. Real artists, venues, stations and events appear
-> only as part of the fiction.
+> Nerve concept was thought up by me sometime in the early to mid nineties while visiting my grandparents in
+> Rochester, NY. I would listen to the radio station [WNVE](https://en.wikipedia.org/wiki/WAIO#The_Nerve_(1995%E2%80%932004)),
+> which had just transitioned to the Nerve branding and became fixated with the concept. Other inspirations
+> also include [Edge 102](https://en.wikipedia.org/wiki/CFNY-FM) in Toronto.
+>
+> The station, its people, websites and history are invented. Real artists, venues, stations and events appear
+> only as part of the fiction. Apart from real people named as part of the canon, any resemblance to actual
+> persons is purely coincidental.
 >
 > It is a constantly evolving timeline as my creative process continues. Historical rules are ***bend, don't
-> break***. Events in the timeline can slightly alter real-life events, as long as they’re not too drastic.
+> break***. Events in the timeline can slightly alter real-life events, as long as they're not too drastic.
 
 The Nerve: *The Rock Radio Revolution*
 
