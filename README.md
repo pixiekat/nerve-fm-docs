@@ -135,9 +135,11 @@ intern in 1988, settled in behind the microphone and held mornings together for 
 no-frills mix of new releases became the first version of Breaking Music, long before it was trimmed down to
 the short bridge that now leads into the morning show.
 
-This time Danny didn't go it alone. He and Mike & Chris searched together and eventually found Ethan & Jared,
-who were promoted and hyped properly before their first show in early 1992. Like Mike & Chris before them,
-they punched up, not down, and they have held the morning slot ever since.
+This time Danny didn’t go it alone. He and Mike & Chris searched together and eventually found Ethan & Jared,
+who were promoted and hyped properly before their first show in early 1992. Where Mike & Chris were a classic
+music-first morning show that took on the powerful between the records, Ethan & Jared built theirs around
+talk, with comedians, guests and bits, and punched up in their own way. They have held the morning slot ever
+since.
 
 The grunge wave hit The Nerve hard and early. Danielle brought a new intimacy to The Rock Cafe when she took
 the helm mid-decade.
