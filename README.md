@@ -16,14 +16,67 @@ Websites:
 
 ## Location
 
-Nerve began in 1967 in a small two-story building on Tremont Street in Boston built in the early 1880s. The
-building itself began life as one of the earliest broadcasters in Boston without even trying. In 1930, a
-working class tinkerer named **Jack DeAngelis** was experimenting with creating a low-power transmission
-signal to keep his neighborhood entertained during the great depression, as he figured radio would be an
-inexpensive way for the community to be engaged and entertained. Jack had a daughter, Margaret DeAngelis, who
-married Frank Caruso. Frank and Sam's dad, Angelo, were friends and it was Frank and Margaret, who agreed to
-let Sam's dad carry the lease of the DeAngelis building which had just shed the previous tenants, the US
-Department of Defense.
+Nerve began in 1967 in a small two-story building on Tremont Street in Boston built around 1875. The building
+itself began life as one of the earliest broadcasters in Boston without even trying. In 1930, a working class
+tinkerer named **Jack DeAngelis** was experimenting with creating a low-power transmission signal to keep his
+neighborhood entertained during the great depression, as he figured radio would be an inexpensive way for the
+community to be engaged and entertained. Jack had a daughter, Margaret DeAngelis, who married Frank Caruso.
+Frank and Sam's dad, Angelo, were union friends from work, and it was Frank and Margaret who agreed to let Sam's
+dad carry the lease of the DeAngelis building, which had just shed the previous tenants, the US Department of
+Defense.
+
+### The DeAngelis Building
+
+The townhouse was built around 1875 as a single-family home for Jack's grandparents, a well-off Boston family with
+a long line of abolitionists behind them. They weren't Quakers; the family had backed the revolutionary armies
+generations earlier and supported the Union armies during the Civil War. The cellar is older than the house above
+it, left over from an earlier structure on the lot, and it extends further underground than the townhouse's own
+footprint.
+
+The house follows the layout of its era: the kitchens and servants' quarters sit at the back of the ground floor,
+the cellar door is under the main stairs off the hallway, and the bedrooms and dining rooms are upstairs. Built in
+the last years of Reconstruction, the house was given a hidden space upstairs, in what is now the original 1967
+studio. Nobody in 1875 could know whether it would be needed again. During Prohibition the hidden space found new
+use as a stash, and in later years it picked up a local legend as an Underground Railroad hiding place, a debate
+the historians had to untangle after the 1989 discovery.
+
+By Jack's generation the family money was gone but the house remained. Jack, born in the early 1900s, ran his
+Depression-era broadcasts from his workshop at the back of the ground floor, the old kitchens and servants'
+quarters, which is now the Underground studio. In Jack's day the cellar held food, cold storage, and coal.
+
+Jack served in World War II. He wasn't a high-ranking officer, but he wasn't a nameless grunt either. He was
+older than most who served, excelled at radio operations, and was in demand. He died in the Pacific around 1944,
+in his thirties, leaving behind a widow and two young children, Margaret and her brother. As a military wife and a
+new war widow, Jack's widow let the military take over the building, first under the War Department and then the
+newly formed Department of Defense. When her son contracted polio during the epidemics of the late 1940s and early
+1950s, the rent became a necessity, not just a patriotic gesture. Margaret's brother did not survive to see the
+Nerve's rediscovery of the building. During the Cold War, the DOD hurriedly turned the cellar into a fallout
+shelter, with no surveys or checks. The building then sat dormant from the late 1950s into the 1960s, until Sam
+Marino arrived in 1967.
+
+In 1989, Travis found Jack's aluminum discs, notebooks, and diagrams behind the basement drywall, and with them
+came the discovery of the cellar's true age. In spring 1990, WCVB's *Chronicle* filmed with Margaret, who brought
+out the family's memorabilia alongside Jack's workshop pieces: his service items, the family's letters and papers,
+the 48-star flag from her father's service, and a March of Dimes keepsake her mother had saved, a reminder of the
+vaccine that came too late for her son. For Margaret, who knew her father only a little, it was a chance to
+rediscover her own family history, one generation at a time.
+
+Margaret has quietly supported the March of Dimes for most of her life. She has never been a public advocate. That
+isn't for any particular reason; she simply isn't that type of person.
+
+### The DeAngelis Family Line
+
+Approximate dates, working back at about 25 to 30 years per generation:
+
+| Generation | Born around | Era |
+| --- | --- | --- |
+| Great-great-great-grandparents | ~1750s | The Revolution |
+| Great-great-grandparents | ~1780s | Born just after the Revolution |
+| Great-grandparents | ~1810s | Peak abolitionist era (1830s–50s), possibly running the older house on the lot as a station |
+| Grandparents | ~1840s | Civil War generation; built the townhouse in 1875 |
+| Parents | ~1875–80 | Children in the brand-new 1875 house |
+| Jack DeAngelis | ~1905–09 | Depression-era tinkerer (1929–30), WWII radio operator, died in the Pacific ~1944 |
+| Margaret and her brother | ~mid-1930s | Margaret: toddler in Jack's lap recording (~1936), on *Chronicle* in 1990. Her brother: died of polio |
 
 ## A Brief History: A Chronicle of Boston's Rock Radio Revolution
 
@@ -438,12 +491,11 @@ forward to the future of rock music and counterculture.
 
 ## NerveTV
 
-In 2020, Nerve soft launched a new digital media portal on their website called NerveTV. Originally, a place
-for exclusive clips and content from the radio station, it has quickly grown to be a spiritual successor to
-channels like MTV and MuchMusic. Helmed by Rayna, the current program director, she took a small studio
-apartment in the basement of the DeAngelis building and turned it into a scrappy, nostalgic video music
-clubhouse. The studio is small and intimate; enough for a green screen, VJ, and occasional musical guests but
-it works.
+In 2020, Nerve soft launched a new digital media portal on their website called NerveTV. Originally, a place for
+exclusive clips and content from the radio station, it has quickly grown to be a spiritual successor to channels
+like MTV and MuchMusic. Helmed by Rayna, NerveTV's program director, she took a small studio apartment in the
+basement of the DeAngelis building and turned it into a scrappy, nostalgic video music clubhouse. The studio is
+small and intimate; enough for a green screen, VJ, and occasional musical guests but it works.
 
 ### Schedule
 
@@ -454,5 +506,5 @@ expected on the air.
 music. Also heard on Nerve FM, in audio form. The NerveTV form is two hours and covers everything in music -
 news, concerts, albums, videos - for the week.
 
-**Live and Loud**: Saturday nights is the time to get loud with the best in metal; hosted by VJ Nikki and
-special musical guests. Live, loud, uncensored hard rock and metal for four hours.
+**Live and Loud**: Saturday nights is the time to get loud with the best in metal; hosted by VJ Nikki and special
+musical guests. Live, loud, uncensored hard rock and metal for four hours.
