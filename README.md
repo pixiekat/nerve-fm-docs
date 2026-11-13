@@ -334,6 +334,14 @@ wander in search of musical enlightenment.
 Their album “Echoes of the Void” was highlighted on a special segment of Luna's show dedicated to the sounds
 of the aurora borealis. The exposure from the show led to a significant surge in recognition for the band.
 
+#### **JJ & Max**
+
+JJ & Max are proteges of Ethan & Jared, who now currently host the afternoon slot on Nerve Underground. Both got
+their start as interns on the Ethan & Jared show, handling their turn at running the Shit Hour, before branching
+off and doing their own weekly show on Underground. Prior to being on Nerve, they both hosted a daily Twitch
+stream focusing on pop culture and gaming, which they still incorporate into their Nerve show, as the Underground
+show is running both on Nerve and on Twitch.
+
 #### **Vixen & Spike** &mdash; ***The Androgynous Icons of The Nerve Underground***
 
 Vixen and Spike, the enigmatic duo of The Nerve Underground, are the embodiment of the station's edgy and
