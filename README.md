@@ -1,5 +1,10 @@
 # The Nerve History
 
+> [!NOTE]
+> **The Nerve is fictional.** This is part of an original, creative fictional broadcasting universe. The
+> station, its people, websites and history are invented. Real artists, venues, stations and events appear
+> only as part of the fiction.
+
 The Nerve: *The Rock Radio Revolution*
 
 Boston, MA (95.1/95.5 FM) / Springfield, MA (105.3 FM) / New England Cable Systems / NerveTV (online)
