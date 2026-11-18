@@ -13,6 +13,8 @@
 >
 > It is a constantly evolving timeline as my creative process continues. Historical rules are ***bend, don't
 > break***. Events in the timeline can slightly alter real-life events, as long as they're not too drastic.
+>
+> All websites, for the most part, are fictional and have no real-life counterparts.
 
 The Nerve: *The Rock Radio Revolution*
 
