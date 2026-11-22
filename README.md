@@ -80,6 +80,45 @@ rediscover her own family history, one generation at a time.
 Margaret has quietly supported the March of Dimes for most of her life. She has never been a public advocate. That
 isn't for any particular reason; she simply isn't that type of person.
 
+### The DeAngelis Playhouse
+
+The townhouse was never the family's only stage. In the early 1880s, a few years after building the house and with
+Reconstruction collapsing around them, Jack's grandparents went looking for a new way to do good. Slavery was gone,
+but the fight their family had carried for generations wasn't finished, and like many Boston abolitionists of their
+generation they turned toward uplift: cheap, decent entertainment for working families, a place for the
+neighbourhood to come together that wasn't the saloon. They opened a modest playhouse in the Scollay Square
+entertainment district, at the top of Tremont Street, a short walk or trolley ride from the house.
+
+It began as a live house: variety bills, touring players, local amateur nights, and a small pit orchestra. Around
+1905 to 1910, when Jack's parents took it over, it became a combination house, mixing vaudeville acts with moving
+pictures, the same pit musicians playing for the acts and accompanying the films from the studios' cue sheets. Jack
+grew up there. Born into the nickelodeon years, he was a projection-booth kid before he was ten, learning the
+projector motors, the carbon arcs, and the wiring long before he ever touched a radio.
+
+In 1915, when *The Birth of a Nation* opened in Boston at the Tremont Theatre, William Monroe Trotter and the
+NAACP led protests and crowds marched on Tremont Street, past the DeAngelis house. When the film later went out on
+cheap second-run bookings to neighbourhood houses, the DeAngelis playhouse turned it away, walking away from the
+biggest box-office picture of the decade. Jack was somewhere between six and ten years old.
+
+The playhouse went dark around 1929 to 1931. Talkies demanded expensive sound conversions, the Depression emptied
+the seats, and by Jack's generation the family money was already gone. Its pit musicians lost their work along
+with thousands of other theatre musicians across the country. What remained came home to Jack's workshop: amplifier
+tubes, speakers, microphones, wiring, projection-booth parts, and a few cans of reels and lantern slides the
+playhouse had owned outright. Combined with parts bartered from local shops, it was the backbone of his first
+transmitter, and some of his earliest broadcasts featured the playhouse's out-of-work musicians playing live for
+the neighbourhood.
+
+The building outlived the playhouse for a few decades, passing through other owners as a shop and storefront, until
+it was demolished along with the rest of Scollay Square in the early 1960s to make way for Government Center.
+
+None of this was ever written down as one story. Jack was too young in 1915 to record what he saw, and Margaret,
+who knew her father only a little, had never heard of the playhouse. After the 1989 discovery and the 1990
+*Chronicle* shoot, Travis began piecing it together from the edges: old city directories and fire insurance maps,
+a booking ledger among the family papers Margaret brought out, and a single line in one of Jack's notebooks,
+written fifteen years after the fact, remembering his father turning the picture away and the crowds on Tremont
+when he was small. Travis can't prove Jack saw the protests. He believes it, and so does everyone who has heard
+the story. It is the Nerve's unofficial DNA: the attitude was in the family, and in the building, long before 1967.
+
 ### The DeAngelis Family Line
 
 Approximate dates, working back at about 25 to 30 years per generation:
@@ -89,9 +128,9 @@ Approximate dates, working back at about 25 to 30 years per generation:
 | Great-great-great-grandparents | ~1750s | The Revolution |
 | Great-great-grandparents | ~1780s | Born just after the Revolution |
 | Great-grandparents | ~1810s | Peak abolitionist era (1830s–50s), possibly running the older house on the lot as a station |
-| Grandparents | ~1840s | Civil War generation; built the townhouse in 1875 |
-| Parents | ~1875–80 | Children in the brand-new 1875 house |
-| Jack DeAngelis | ~1905–09 | Depression-era tinkerer (1929–30), WWII radio operator, died in the Pacific ~1944 |
+| Grandparents | ~1840s | Civil War generation; built the townhouse in 1875, opened the playhouse in the early 1880s |
+| Parents | ~1875–80 | Children in the brand-new 1875 house; ran the playhouse as a combination house (~1905–1930) |
+| Jack DeAngelis | ~1905–09 | Projection-booth kid, Depression-era tinkerer (1929–30), WWII radio operator, died in the Pacific ~1944 |
 | Margaret and her brother | ~mid-1930s | Margaret: toddler in Jack's lap recording (~1936), on *Chronicle* in 1990. Her brother: died of polio |
 
 ## A Brief History: A Chronicle of Boston's Rock Radio Revolution
@@ -166,6 +205,8 @@ could filter.
 - Grunge Movement: Featured bands like Nirvana and Pearl Jam
 - Youth Connection: Resonated with the era's disaffected youth
 - Historical Significance: Cemented its place in rock history.
+- WCVB's *Chronicle* films with Margaret (spring 1990); Travis begins piecing together the lost DeAngelis
+  playhouse.
 - Elle D becomes program director.
 - Mike & Chris move from mornings to afternoons.
 - Jake & Robbie's short-lived morning show (spring to winter 1990).
