@@ -41,6 +41,28 @@ Frank and Sam's dad, Angelo, were union friends from work, and it was Frank and 
 dad carry the lease of the DeAngelis building, which had just shed the previous tenants, the US Department of
 Defense.
 
+### The DeAngelis Origins
+
+The DeAngelis family were Waldensians, Protestants from the Piedmont valleys of northwestern Italy who had been
+persecuted for their faith for centuries. After the massacre of 1655, the family fled north to the Netherlands,
+where they kept their name, their faith, and their trade. Like a handful of other Waldensian refugees, they crossed
+to the Dutch colony of New Amsterdam, and by the early 1700s a branch had settled in Massachusetts Bay, where a
+Protestant Italian family could make a life that a Catholic one could not. They arrived educated and with some
+money behind them, and built on it in Boston through trade and, increasingly, the law.
+
+The family never forgot what it meant to be hunted for who you were. It is the root of everything that came after.
+
+By the generation born in the 1750s, the family had a Harvard-educated attorney practising in Boston, in a legal
+community small enough that he crossed paths with John Adams in the courts and taverns, though the two were never
+close. He turned out as a minuteman in 1775 and served under Washington during the Siege of Boston. After the war,
+he and the family put their legal knowledge behind the freedom suits of 1781 to 1783, the cases brought by
+Elizabeth Freeman and Quock Walker under the new state constitution, which ended slavery in Massachusetts in the
+courts. From then on, knowing the law was part of how the DeAngelises fought: the family's abolitionism started in a
+courtroom, and every generation after kept it there as well as on the street.
+
+They were well known in their neighbourhood and nowhere else, a family, not a legend, which is exactly how they
+would have wanted it.
+
 ### The DeAngelis Building
 
 The townhouse was built around 1875 as a single-family home for Jack's grandparents, a well-off Boston family with
@@ -136,7 +158,7 @@ Approximate dates, working back at about 25 to 30 years per generation:
 
 | Generation | Born around | Era |
 | --- | --- | --- |
-| Great-great-great-grandparents | ~1750s | The Revolution; a minuteman who served under Washington at the Siege of Boston |
+| Great-great-great-grandparents | ~1750s | The Revolution; Harvard-educated attorney and minuteman, served under Washington at the Siege of Boston, backed the 1781–83 freedom suits |
 | Great-great-grandparents | ~1780s | Born just after the Revolution |
 | Great-grandparents | ~1810s | Peak abolitionist era (1830s–50s), possibly running the older house on the lot as a station |
 | Grandparents | ~1840s | Civil War generation; built the townhouse in 1875, opened the playhouse in the early 1880s |
