@@ -44,8 +44,9 @@ Defense.
 ### The DeAngelis Building
 
 The townhouse was built around 1875 as a single-family home for Jack's grandparents, a well-off Boston family with
-a long line of abolitionists behind them. They weren't Quakers; the family had backed the revolutionary armies
-generations earlier and supported the Union armies during the Civil War. The cellar is older than the house above
+a long line of abolitionists behind them. They weren't Quakers; an ancestor had turned out as a minuteman and
+served under Washington during the Siege of Boston, and later generations fought for the Union when their era
+demanded it. But the family's true calling was abolition, not soldiering. The cellar is older than the house above
 it, left over from an earlier structure on the lot, and it extends further underground than the townhouse's own
 footprint.
 
@@ -60,9 +61,15 @@ By Jack's generation the family money was gone but the house remained. Jack, bor
 Depression-era broadcasts from his workshop at the back of the ground floor, the old kitchens and servants'
 quarters, which is now the Underground studio. In Jack's day the cellar held food, cold storage, and coal.
 
-Jack served in World War II. He wasn't a high-ranking officer, but he wasn't a nameless grunt either. He was
-older than most who served, excelled at radio operations, and was in demand. He died in the Pacific around 1944,
-in his thirties, leaving behind a widow and two young children, Margaret and her brother. As a military wife and a
+Jack served in World War II, though not because soldiering was in his blood. The DeAngelises had served when their
+eras asked it of them, but they were never a military family. By the early 1940s the playhouse was long gone and
+his Depression-era tinkering was winding down, and in December 1941 the government silenced amateur radio for the
+duration of the war. The one place still asking for his skills was the war itself. He went in as a civilian with a
+trade, the kind of man the Signal Corps and the Navy were desperate for, and served as a radio operator, not a
+fighter, keeping people connected the way he always had. He wasn't a high-ranking officer, but he wasn't a
+nameless grunt either. He was older than most who served, excelled at radio operations, and was in demand. He
+died in the Pacific around 1944, in his thirties, leaving behind a widow and two young children, Margaret and her
+brother. As a military wife and a
 new war widow, Jack's widow let the military take over the building, first under the War Department and then the
 newly formed Department of Defense. When her son contracted polio during the epidemics of the late 1940s and early
 1950s, the rent became a necessity, not just a patriotic gesture. Margaret's brother did not survive to see the
@@ -119,13 +126,17 @@ written fifteen years after the fact, remembering his father turning the picture
 when he was small. Travis can't prove Jack saw the protests. He believes it, and so does everyone who has heard
 the story. It is the Nerve's unofficial DNA: the attitude was in the family, and in the building, long before 1967.
 
+The playhouse had been the neighbourhood's lifeline for half a century, and the Depression took it away at the very
+moment people needed it most. Jack couldn't reopen the doors, but his broadcasts were his way of keeping it alive
+after they closed.
+
 ### The DeAngelis Family Line
 
 Approximate dates, working back at about 25 to 30 years per generation:
 
 | Generation | Born around | Era |
 | --- | --- | --- |
-| Great-great-great-grandparents | ~1750s | The Revolution |
+| Great-great-great-grandparents | ~1750s | The Revolution; a minuteman who served under Washington at the Siege of Boston |
 | Great-great-grandparents | ~1780s | Born just after the Revolution |
 | Great-grandparents | ~1810s | Peak abolitionist era (1830s–50s), possibly running the older house on the lot as a station |
 | Grandparents | ~1840s | Civil War generation; built the townhouse in 1875, opened the playhouse in the early 1880s |
