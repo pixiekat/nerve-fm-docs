@@ -79,6 +79,11 @@ studio. Nobody in 1875 could know whether it would be needed again. During Prohi
 use as a stash, and in later years it picked up a local legend as an Underground Railroad hiding place, a debate
 the historians had to untangle after the 1989 discovery.
 
+The servants' quarters were never a contradiction of the family's beliefs. At a time when many immigrants, especially
+the Irish, were shut out of decent work, the DeAngelises took them in: they paid fairly, gave proper rooms and
+reasonable hours, and treated their household staff as part of the family. For a family that had once fled
+persecution themselves, it was the least they could do.
+
 By Jack's generation the family money was gone but the house remained. Jack, born in the early 1900s, ran his
 Depression-era broadcasts from his workshop at the back of the ground floor, the old kitchens and servants'
 quarters, which is now the Underground studio. In Jack's day the cellar held food, cold storage, and coal.
@@ -170,11 +175,34 @@ Approximate dates, working back at about 25 to 30 years per generation:
 
 **The 1960s**: ***Underground Beginnings***
 
-The station launched at 95.1 FM — a frequency it would hold for decades. The 1960s saw Sam hosting live
+May 1967. The light over the Common is going gold, and the trees are just leafed out. Commuters pour out of the
+Park Street kiosk and head for home.
+
+Sam has been on the air on and off for a while, an hour here, two hours there, mostly records and whatever he
+feels like talking about. Tonight he's at the Tea Party, watching the Velvets, and something clicks. Afterwards,
+he shoots his shot: "Hey, I've got a little station, come do this on air." Somehow they say yes.
+
+Back on Tremont Street, the band crowds up the narrow stairs into the little upstairs room.
+
+Lou Reed is bored and leaning against the wall, scratching his name into the plaster with whatever was in his
+pocket. Sam flips the switch, the little red light comes on, and he says something into the microphone that
+nobody will remember word for word, except a fifteen-year-old in Worcester.
+
+Down on Tremont Street, someone walking past glances up at the open window, hears a fragment of a song they don't
+know, and keeps walking. They have no idea they've just passed the start of something.
+
+The entirety of the birth of the Nerve, recorded only on Sam's Kodak Instamatic. Slightly blurry, a little too
+dark, the colours already shifting toward orange. Three simple photos and a legend was born.
+
+- one blurry shot of Lou leaning against the wall, mid-scratch, which later becomes evidence for The Wall legend;
+- one of the band crowded round the microphone, someone's elbow in the frame;
+- one of Sam himself, badly framed, after he handed the camera to whoever was nearest.
+
+The station soon settled at 95.1 FM, a frequency it would hold for decades. The 1960s saw Sam hosting live
 performances and vinyl deep cuts on The Rock Cafe, giving voice to Boston's underground scene at a time when
 mainstream radio wouldn't touch it.
 
-- Founded: A warm early Spring evening in May 1967 when a young Sam Marino saw the Velvet Underground at the
+- Founded: A warm early spring evening in May 1967 when a young Sam Marino saw the Velvet Underground at the
   Boston Tea Party and convinced them to give an interview.
 - Flagship Program: The Rock Cafe
 - Notable Feature: Live performances and vinyl record deep cuts
