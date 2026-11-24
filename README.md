@@ -79,9 +79,9 @@ studio. Nobody in 1875 could know whether it would be needed again. During Prohi
 use as a stash, and in later years it picked up a local legend as an Underground Railroad hiding place, a debate
 the historians had to untangle after the 1989 discovery.
 
-The servants' quarters were never a contradiction of the family's beliefs. At a time when many immigrants, especially
-the Irish, were shut out of decent work, the DeAngelises took them in: they paid fairly, gave proper rooms and
-reasonable hours, and treated their household staff as part of the family. For a family that had once fled
+The servants' quarters were never a contradiction of the family's beliefs. At a time when many immigrants,
+especially the Irish, were shut out of decent work, the DeAngelises took them in: they paid fairly, gave proper rooms
+and reasonable hours, and treated their household staff as part of the family. For a family that had once fled
 persecution themselves, it was the least they could do.
 
 By Jack's generation the family money was gone but the house remained. Jack, born in the early 1900s, ran his
@@ -156,6 +156,32 @@ the story. It is the Nerve's unofficial DNA: the attitude was in the family, and
 The playhouse had been the neighbourhood's lifeline for half a century, and the Depression took it away at the very
 moment people needed it most. Jack couldn't reopen the doors, but his broadcasts were his way of keeping it alive
 after they closed.
+
+### Before and After
+
+Jack's wife was never a DeAngelis by birth, and she never knew the family at its height. She came from a well-to-do
+Boston family of her own and had a debutante's upbringing: coming-out balls, the social season, white gloves and
+dance cards. In the 1920s she went to the DeAngelis playhouse with her friends because it was charming and a little
+bohemian, and she met the young man in the projection booth. They courted through the last years of the playhouse
+and were married by the early 1930s, going into the Depression.
+
+She didn't marry down. The Crash took her family's money too, and the two families fell together. Her life kept
+asking her to adjust: from debutante to Depression wife in a house bigger than its bank account, to young mother, to
+war wife, to war widow, to landlady to the War Department and nurse to a son with polio. She met every one of those
+changes and rarely spoke about the life before. She had lost two histories, her own family's and the DeAngelis one,
+and the DeAngelis stories were never hers to tell; the last DeAngelis who could tell them died in the Pacific. What
+she kept were the things she knew first-hand: Jack's service items, the flag, and the March of Dimes keepsake.
+
+Margaret was born into the after. She never saw the playhouse lit up, never knew a debutante season, and never knew
+the family as anything but careful with money. Her childhood was the tail end of the Depression, wartime rationing,
+losing her father at eight or nine, a house rented to the military, and her brother's polio. By her generation the
+family was house-rich and cash-modest; she inherited a house and a name, not a lifestyle. When she married Frank
+Caruso, a union man, she wasn't leaving her family's world behind. The DeAngelises had always stood with working
+people, and now they simply belonged to them.
+
+So the 1989 discovery and the 1990 *Chronicle* shoot gave Margaret something new rather than something lost:
+abolitionist ancestors, a family playhouse, and a father who had kept the neighbourhood company with salvaged tubes.
+She wasn't getting back a life she remembered. She was meeting a family she never knew she came from.
 
 ### The DeAngelis Family Line
 
